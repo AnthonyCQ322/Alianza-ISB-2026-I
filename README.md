@@ -1,9 +1,12 @@
-# Alianza
-
 # <p align="center"> Introduccion a Señales Biomedicas </p>
 
-## Problematica
+## 1. CITI program - certificados
 
 > EEG ECG EMG.
 >
-## Miembros del Equipo Alianza
+## 2. Laboratorios
+> laboratorio 1 - Git y Github
+
+## 3. Proyecto
+> a. Hardware
+> b. Software
