@@ -1,8 +1,8 @@
 # <p align="center"> Introduccion a Señales Biomedicas </p>
-
+> EEG ECG EMG.
 ## 1. CITI program - certificados
 
-> EEG ECG EMG.
+
 >
 ## 2. Laboratorios
 ### <ul> a. laboratorio 1 - Git y Github. </ul> 
