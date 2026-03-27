@@ -5,9 +5,9 @@
 > EEG ECG EMG.
 >
 ## 2. Laboratorios
-### a. laboratorio 1 - Git y Github
-### b.
+### <ul> a. laboratorio 1 - Git y Github. </ul> 
+### <ul> b. </ul>
 
 ## 3. Proyecto
-### a. Hardware
-### b. Software
+### <ul> a. Hardware. </ul>
+### <ul> b. Software. </ul>
