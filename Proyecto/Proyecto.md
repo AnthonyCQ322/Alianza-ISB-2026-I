@@ -28,3 +28,9 @@ Estadísticamente entre el 80% y el 99% de las alarmas de monitores ECG son fals
 Los algoritmos convencionales de detección del ST activan alarmas por cambios muy breves en la señal, originados por el movimiento del paciente, el cambio postural o la respiración, debido a que no incorporan criterios clínicos como duración mínima del episodio, umbral de la señal, ni confirmación en derivaciones contiguas [11].  Esto demuestra que la configuración del algoritmo impacta directamente en el ámbito clínico.
 
 En ese entender, se identifica la necesidad de desarrollar algoritmos de procesamiento de señales que, utilizando un número limitado de derivaciones del ECG, permitan detectar episodios de elevación del segmento ST con mayor especificidad que los sistemas convencionales empleados en entornos hospitalarios. </div>
+
+## Propuesta de Solución
+<div align="justify">
+
+</div>
+## Plan de Actividades
