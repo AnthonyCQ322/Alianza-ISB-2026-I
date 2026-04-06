@@ -1,3 +1,9 @@
+><p align="center"> # INTRODUCCIÓN A SEÑALES BIOMÉDICAS </p>
+><p align="center"> Universidad Peruana Cayetano Heredia </p>
+
+
+><p align="center"> <img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Screenshot_2026-04-05-19-02-39-53_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg width="30%"> </p>
+
 # Equipo 4:
 ## Integrantes
 - Mishelle Llanos Guerrero
