@@ -30,6 +30,10 @@ Los algoritmos convencionales de detección del ST activan alarmas por cambios m
 En ese entender, se identifica la necesidad de desarrollar algoritmos de procesamiento de señales que, utilizando un número limitado de derivaciones del ECG, permitan detectar episodios de elevación del segmento ST con mayor especificidad que los sistemas convencionales empleados en entornos hospitalarios. </div>
 
 ## 3. Propuesta de Solución
+<div align="justify"> La propuesta de solución consiste en el desarrollo de un sistema de monitoreo basado	 en deep learning , diseñado para filtrar las fluctuaciones que causan las fatigas por alarma. El sistema tendría que eliminar la deriva de línea base, causado por la respiración, sin distorsionar la morfología del segmento ST,además de filtrar el ruido muscular. Presentaría un algoritmo que mediría el punto J de manera precisa, y una evaluación mediante IA para confirmar si se trata de un patrón de IAM. Si se trata de ello, emitirá una alarma sonora la cuál indicaría una emergencia
+
+</div>
+
 ## 4. Plan de Actividades
 | Semana | Duración (h) | Actividad | Estado |
 | :---: | :---: | :--- | :---: |
