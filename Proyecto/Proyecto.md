@@ -45,7 +45,7 @@ En ese entender, se identifica la necesidad de desarrollar algoritmos de procesa
 
 ## 4. Plan de Actividades
 
-><p align="center"> <img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/GANTT.png width="30%"> </p>
+<img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/GANTT.png width="30%">
 
 
 ## 5. Referencias
