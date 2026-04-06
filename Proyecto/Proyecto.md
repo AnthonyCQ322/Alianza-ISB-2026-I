@@ -1,4 +1,4 @@
-><p align="center"> # INTRODUCCIÓN A SEÑALES BIOMÉDICAS </p>
+><p align="center">  INTRODUCCIÓN A SEÑALES BIOMÉDICAS </p>
 ><p align="center"> Universidad Peruana Cayetano Heredia </p>
 
 
