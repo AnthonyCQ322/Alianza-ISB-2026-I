@@ -1,10 +1,10 @@
-<p align="center">
-  <b><h1>INTRODUCCIÓN A SEÑALES BIOMÉDICAS</h1></b>
-  Universidad Peruana Cayetano Heredia
-</p>
+<div align="center">
+  <h1><b>INTRODUCCIÓN A SEÑALES BIOMÉDICAS</b></h1>
+  <p>Universidad Peruana Cayetano Heredia</p>
+</div>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png?raw=true" width="80%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png?raw=true" width="70%">
 </p>
 
 # Equipo 4:
@@ -24,8 +24,10 @@ El electrocardiograma (ECG) es la principal prueba para detectar problemas cardi
 El segmento ST es la porción del ECG que conecta el final del complejo QRS con el inicio de la onda T [5]. En condiciones normales es isoeléctrico o plano, con variaciones menores de 0,5 mm. Su análisis permite identificar cardiopatía isquémica o infarto agudo de miocardio (IAM), siendo  la elevación aguda del segmento ST uno de los signos más tempranos del IAM y generalmente relacionada con la oclusión completa de una arteria coronaria [ 6 ]. </div>
 
 
-><p align="center"> <img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Screenshot_2026-04-05-19-02-39-53_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg width="30%"> </p>
-><p align="center"> Figura 1. Electrocardiograma con elevación del segmento T [6] </p>
+<p align="center"> 
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Screenshot_2026-04-05-19-02-39-53_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg?raw=true" width="80%"> 
+</p>
+<p align="center"> <i>Figura 1. Electrocardiograma con elevación del segmento T [6]</i> </p>
 
 ## 2. Problemática a abordar
 <div align="justify"> A pesar de que el análisis del segmento ST es el indicador importante, su detección automática en sistemas de monitorización continua presenta limitaciones importantes en la práctica clínica.  En entornos hospitalarios como unidades de cuidados intensivos, salas de hospitalización o servicios de emergencia, los monitores cardiacos registran al ECG de manera continua utilizando números reducidos de derivaciones (de 3 a 6 electrodos), a diferencia del ECG diagnóstico de 12 derivaciones [7]. Esta configuración simplificada permite la monitorización prolongada del paciente, pero produce mayores desafíos para la interpretación automatizada de la señal.
