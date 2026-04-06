@@ -29,8 +29,8 @@ Los algoritmos convencionales de detección del ST activan alarmas por cambios m
 
 En ese entender, se identifica la necesidad de desarrollar algoritmos de procesamiento de señales que, utilizando un número limitado de derivaciones del ECG, permitan detectar episodios de elevación del segmento ST con mayor especificidad que los sistemas convencionales empleados en entornos hospitalarios. </div>
 
-## Propuesta de Solución
+## 3. Propuesta de Solución
 <div align="justify">
 
 </div>
-## Plan de Actividades
+## 4. Plan de Actividades
