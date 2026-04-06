@@ -1,6 +1,6 @@
 ><p align="center">  
-# INTRODUCCIÓN A SEÑALES BIOMÉDICAS </p>
-><p align="center"> 
+# INTRODUCCIÓN A SEÑALES BIOMÉDICAS
+
   Universidad Peruana Cayetano Heredia </p>
 
 
