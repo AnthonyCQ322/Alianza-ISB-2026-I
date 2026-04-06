@@ -44,25 +44,8 @@ En ese entender, se identifica la necesidad de desarrollar algoritmos de procesa
 </div>
 
 ## 4. Plan de Actividades
-| Semana | Duración (h) | Actividad | Estado |
-| :---: | :---: | :--- | :---: |
-| 1 | 6 | 🔍 Comprensión, búsqueda de problemática y creación del repositorio | ✅ Completo |
-| 2 | 6 | 💡 Posibles propuestas y elección del proyecto | ✅ Completo |
-| 3 | 4 | 📅 Plan de trabajo | ⏳ En proceso |
-| 4 | 2 | 📚 Estado del arte | 🟦 Pendiente |
-| 5 | 4 | 🎤 Entrega y sustentación del 1er avance (Retroalimentación) | 🟦 Pendiente |
-| 6 | 6 | 🛠️ Matriz morfológica y conceptos de solución | 🟦 Pendiente |
-| 7 | 4 | 💻 Prototipado electrónico y revisión de PCB con profesores | 🟦 Pendiente |
-| 8 | 2 | 📦 Petición de la PCB y recursos necesarios | 🟦 Pendiente |
-| 9 | 2 | 🎤 Entrega y sustentación del 2do avance (Retroalimentación) | 🟦 Pendiente |
-| 10 | 8 | 📝 Examen parcial | 🟦 Pendiente |
-| 11 | 6 | 🤖 Programación y aplicación en Machine Learning | 🟦 Pendiente |
-| 12 | 6 | 🔨 Construcción y calibración del prototipo funcional | 🟦 Pendiente |
-| 13 | 8 | 🧪 Pruebas del prototipo | 🟦 Pendiente |
-| 14 | 8 | ⚙️ Validación y corrección de prototipo funcional | 🟦 Pendiente |
-| 15 | 2 | 📄 Avance del artículo académico y póster | 🟦 Pendiente |
-| 16 | 2 | 🎤 Entrega y sustentación del 3er avance (Retroalimentación) | 🟦 Pendiente |
-| **Final** | - | 🏆 Presentación Final y póster | 🟦 Pendiente |
+
+><p align="center"> <img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/GANTT.png width="30%"> </p>
 
 
 ## 5. Referencias
