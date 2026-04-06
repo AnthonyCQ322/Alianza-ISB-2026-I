@@ -1,10 +1,11 @@
-><p align="center">  
-# INTRODUCCIÓN A SEÑALES BIOMÉDICAS
+<p align="center">
+  <b><h1>INTRODUCCIÓN A SEÑALES BIOMÉDICAS</h1></b>
+  Universidad Peruana Cayetano Heredia
+</p>
 
-  Universidad Peruana Cayetano Heredia </p>
-
-
-><p align="center"> <img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png width="30%"> </p>
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png?raw=true" width="80%">
+</p>
 
 # Equipo 4:
 ## Integrantes
