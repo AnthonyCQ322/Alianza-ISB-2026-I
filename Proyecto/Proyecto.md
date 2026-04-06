@@ -4,7 +4,7 @@
   Universidad Peruana Cayetano Heredia </p>
 
 
-><p align="center"> <img src=(https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png) width="30%"> </p>
+><p align="center"> <img src=https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png width="30%"> </p>
 
 # Equipo 4:
 ## Integrantes
