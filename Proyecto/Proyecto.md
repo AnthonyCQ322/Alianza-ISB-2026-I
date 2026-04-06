@@ -50,3 +50,30 @@ En ese entender, se identifica la necesidad de desarrollar algoritmos de procesa
 | 15 | 2 | 📄 Avance del artículo académico y póster | 🟦 Pendiente |
 | 16 | 2 | 🎤 Entrega y sustentación del 3er avance (Retroalimentación) | 🟦 Pendiente |
 | **Final** | - | 🏆 Presentación Final y póster | 🟦 Pendiente |
+
+
+## 5. Referencias
+<div align="justify">
+[1] World Health Organization: WHO, “Enfermedades cardiovasculares,” Jun. 11, 2019. https://www.who.int/es/health-topics/cardiovascular-diseases#tab=tab_1
+
+[2] “Enfermedades cardiovasculares son la primera causa de muerte en nuestro país,” Noticias - Ministerio De Salud - Plataforma Del Estado Peruano. https://www.gob.pe/institucion/minsa/noticias/1030798-enfermedades-cardiovasculares-son-la-primera-causa-de-muerte-en-nuestro-pais
+
+[3] A. Hernández-Vásquez, R. Vargas-Fernández, and M. Chacón-Díaz, “Tendencias en la epidemiología del infarto agudo de miocardio en el Perú: un análisis de los registros oficiales de SUSALUD,” Archivos Peruanos De Cardiología Y Cirugía Cardiovascular, vol. 5, no. 4, pp. 187–197, Nov. 2024,  https://doi.org/10.47487/apcyccv.v5i4.435
+
+[4] M. Rodríguez, “Electrocardiograma,” Fundación Española Del Corazón. https://fundaciondelcorazon.com/informacion-para-pacientes/metodos-diagnosticos/electrocardiograma.html
+
+[5] H. Parrales MD, “Segmento ST,” Cerebromedico, Dec. 16, 2018. https://cerebromedico.com/electrocardiograma/segmento-st/
+
+[6] “Valoración del Segmento ST.” https://www.my-ekg.com/como-leer-ekg/segmento-st.php
+
+[7] M. S. Holm et al., “The patient experience of in-hospital telemetry monitoring: a qualitative analysis,” European Journal of Cardiovascular Nursing, vol. 23, no. 3, pp. 258–266, Aug. 2023, doi: 10.1093/eurjcn/zvad082.
+
+[8] E. A. M. Michels, S. Gilbert, I. Koval, and M. K. Wekenborg, “Alarm fatigue in healthcare: a scoping review of definitions, influencing factors, and mitigation strategies,” BMC Nursing, vol. 24, no. 1, p. 664, Jun. 2025, doi: 10.1186/s12912-025-03369-2.
+
+[9] S. Jacques and E. Williams, “Reducing the safety hazards of monitor alert and alarm fatigue,” PSNet, May 01, 2016. https://psnet.ahrq.gov/perspective/reducing-safety-hazards-monitor-alert-and-alarm-fatigue
+
+[10] M. M. Pelter, D. Mortara, and F. Badilini, “Computer Assisted Patient monitoring: associated patient, clinical and ECG characteristics and strategy to minimize false alarms,” Hearts, vol. 2, no. 4, pp. 459–471, Oct. 2021, doi: 10.3390/hearts2040036.
+
+[11] M. M. Pelter, Y. Xu, R. Fidler, R. Xiao, D. W. Mortara, and H. Xiao, “Evaluation of ECG algorithms designed to improve detect of transient myocardial ischemia to minimize false alarms in patients with suspected acute coronary syndrome,” Journal of Electrocardiology, vol. 51, no. 2, pp. 288–295, Oct. 2017, doi: 10.1016/j.jelectrocard.2017.10.005
+</div>
+
