@@ -72,13 +72,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 ## 5. Resultados
 1. **Bíceps – Reposo** 
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%201.png" width="70%">
 </p>
 <p align="center">
   Figura 1: Señal EMG de bíceps en reposo (cruda vs. filtrada)
 </p>
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%202.png" width="70%">
 </p>
 <p align="center">
   Figura 2: Espectro de frecuencia – Bíceps en reposo (señal filtrada)
@@ -86,13 +86,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 2. **Bíceps – Flexión**
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%203.png" width="70%">
 </p>
 <p align="center">
   Figura 3: Señal EMG de bíceps durante flexión (cruda vs. filtrada)
 </p>
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%204.png" width="70%">
 </p>
 <p align="center">
   Figura 4: Espectro de frecuencia – Bíceps en flexión
@@ -100,13 +100,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 3. **Bíceps – Flexión con peso**
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%205.png" width="70%">
 </p>
 <p align="center">
   Figura 5: Señal EMG de bíceps durante flexión con peso (cruda vs. filtrada)
 </p>
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%206.png" width="70%">
 </p>
 <p align="center">
   Figura 6: Espectro de frecuencia – Bíceps en flexión con peso
@@ -114,13 +114,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 4. **Tríceps – Reposo**
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%207.png" width="70%">
 </p>
 <p align="center">
   Figura 7: Señal EMG de tríceps en reposo (cruda vs. filtrada)
 </p>
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%208.png" width="70%">
 </p>
 <p align="center">
   Figura 8: Espectro de frecuencia – Tríceps en reposo
@@ -128,13 +128,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 5. **Tríceps – Extensión**
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%209.png" width="70%">
 </p>
 <p align="center">
   Figura 9: Señal EMG de tríceps durante extensión (cruda vs. filtrada)
 </p>
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2010.png" width="70%">
 </p>
 <p align="center">
   Figura 10: Espectro de frecuencia – Tríceps en extensión
@@ -142,13 +142,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 6. **Tríceps – Extensión con peso**
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2011.png" width="70%">
 </p>
 <p align="center">
   Figura 11: Señal EMG de tríceps durante extensión con peso (cruda vs. filtrada)
 </p>
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2012.png" width="70%">
 </p>
 <p align="center">
   Figura 12: Espectro de frecuencia – Tríceps en extensión con peso
