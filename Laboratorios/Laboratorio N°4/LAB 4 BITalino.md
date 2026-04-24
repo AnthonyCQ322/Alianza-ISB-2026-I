@@ -4,9 +4,9 @@
   <h1><b>BITAlino para EMG</b></h1>
 </div>
 
-<p align="center">
+<div  align="center">
   <h1><b>INTRODUCCIÓN A SEÑALES BIOMÉDICAS</b></h1>
-</p>
+</div>
 
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/bitalino.png" width="70%">
