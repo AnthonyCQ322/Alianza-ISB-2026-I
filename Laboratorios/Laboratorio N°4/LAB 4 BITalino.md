@@ -70,15 +70,93 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 <p align="center"> <i>Video 1. "Descripción del video"</i> </p>
 
 ## 5. Resultados
-### 5.1 Bíceps
-- **Reposo:** Señal con amplitud mínima promediando 0mV, con picos aislados en 8 y 20 segundos.
-- **Flexión:** Ráfagas de MUAPs con amplitud pico a pico entre -0.3mV y 0.4mV.
-- **Flexión con peso:** Amplitud máxima con picos de [-0.7; 1]mV y patrón de interferencia denso.
+1. **Bíceps – Reposo** 
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 1: Señal EMG de bíceps en reposo (cruda vs. filtrada)
+</p>
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 2: Espectro de frecuencia – Bíceps en reposo (señal filtrada)
+</p>
 
-### 5.2 Tríceps
-- **Reposo:** Línea base estable con ruido de fondo bajo.
-- **Extensión:** Aumento significativo de amplitud en el rango de [-1; 1.5]mV.
-- **Extensión con peso:** Pico máximo de [-1.5; 1.7]mV registrado alrededor de los 40 segundos.
+2. **Bíceps – Flexión**
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 3: Señal EMG de bíceps durante flexión (cruda vs. filtrada)
+</p>
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 4: Espectro de frecuencia – Bíceps en flexión
+</p>
+
+3. **Bíceps – Flexión con peso**
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 5: Señal EMG de bíceps durante flexión con peso (cruda vs. filtrada)
+</p>
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 6: Espectro de frecuencia – Bíceps en flexión con peso
+</p>
+
+4. **Tríceps – Reposo**
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 7: Señal EMG de tríceps en reposo (cruda vs. filtrada)
+</p>
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 8: Espectro de frecuencia – Tríceps en reposo
+</p>
+
+5. **Tríceps – Extensión**
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 9: Señal EMG de tríceps durante extensión (cruda vs. filtrada)
+</p>
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 10: Espectro de frecuencia – Tríceps en extensión
+</p>
+
+6. **Tríceps – Extensión con peso**
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 11: Señal EMG de tríceps durante extensión con peso (cruda vs. filtrada)
+</p>
+<p align="center">
+  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+</p>
+<p align="center">
+  Figura 12: Espectro de frecuencia – Tríceps en extensión con peso
+</p>
+
+<div align="justify">
+Se obtuvieron registros de la actividad eléctrica para los músculos bíceps y tríceps. Los resultados se dividen en el análisis morfológico de la señal en el dominio del tiempo y la distribución de su energía en el dominio de la frecuencia.
+</div>
 
 ## 6. Discusión
 ### 6.1 Análisis de Resultados
