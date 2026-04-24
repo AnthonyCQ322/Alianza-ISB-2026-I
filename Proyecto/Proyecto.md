@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Proyecto/ECG.jpg)" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Proyecto/ECG.jpg" width="70%">
 </p>
 
 # Equipo 4:
@@ -49,7 +49,7 @@ En ese entender, se identifica la necesidad de desarrollar algoritmos de procesa
 ## 4. Plan de Actividades
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Proyecto/GANTT.png)" width="90%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Proyecto/GANTT.png" width="90%">
 </p>
 
 
