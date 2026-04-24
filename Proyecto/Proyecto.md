@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png?raw=true" width="70%">
+  <img src="[https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/senales.png?raw=true](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Proyecto/ECG.jpg)" width="70%">
 </p>
 
 # Equipo 4:
