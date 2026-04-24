@@ -58,7 +58,7 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 ## 4. Procedimiento
 1. **Limpieza de Piel:** <br>Se buscó una zona de poca vellosidad y se procedió a limpiar la zona del músculo a evaluar.
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Limpieza.png" width="80%">
 </p>
 <p align="center">
   Imágen 1: Materiales de limpieza con el brazo sin electrodos
@@ -68,7 +68,7 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 3. **Colocación de electrodos:** <br>Una vez identificado el músculo que se desea evaluar se procede a colocar los electrodos de medición en el músculo alineados en el sentido de las fibras musculares y el electrodo de referencia se coloca en una zona ósea eléctricamente neutra como el codo.
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Electrodos%20en%20bicep.png" width="80%">
 </p>
 <p align="center">
   Imágen 2: Colocación de electrodos en el bíceps con la referencia en el codo.
@@ -88,7 +88,7 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
    
 6. **Tomas de movimiento:** <br>se inició la grabación en el OpenSignals con las tres repeticiones de contracciones para cada músculo (bicep y tricep), se realizó una en reposo, una sin fuerzas en contra del movimiento y una sometida a una fuerza al sentido contrario del recorrido del músculo, entre cada repetición hubo un minuto de reposo.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Limpieza.png" width="80%">
+  <img src="" width="80%">
 </p>
 <p align="center">
   Video 1: Grabación del brazo con el bíceps en reposo.
