@@ -75,7 +75,7 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 </p>  
 
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Electrodos%20en%20tricep.png" width="80%">
 </p>
 <p align="center">
   Imágen 3: Colocación de electrodos en el trícep con la referencia en el codo.
