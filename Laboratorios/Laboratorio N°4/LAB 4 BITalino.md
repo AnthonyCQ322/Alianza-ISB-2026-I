@@ -89,6 +89,9 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 6. **Tomas de movimiento:** <br>se inició la grabación en el OpenSignals con las tres repeticiones de contracciones para cada músculo (bicep y tricep), se realizó una en reposo, una sin fuerzas en contra del movimiento y una sometida a una fuerza al sentido contrario del recorrido del músculo, entre cada repetición hubo un minuto de reposo.
 <p align="center">
   <img src="" width="80%">
+  
+
+
 </p>
 <p align="center">
   Video 1: Grabación del brazo con el bíceps en reposo.
@@ -110,17 +113,15 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 
 <p align="center">
   <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+  
+
+Uploading tricep en reposo.mp4…
+
+
 </p>
 <p align="center">
   Video 4: Grabación del brazo con el tricep en reposo.
-</p>  
-
-<p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
-</p>
-<p align="center">
-  Video 5: Grabación del movimiento del brazo con el tricep en contracción.
-</p>  
+</p>   
 
 <p align="center">
   <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
