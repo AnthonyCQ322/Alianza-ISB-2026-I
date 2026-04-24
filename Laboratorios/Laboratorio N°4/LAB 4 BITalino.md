@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="TU_LINK_AQUÍ?raw=true" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/bitalino.png" width="70%">
 </p>
 
 ## Tabla de contenidos
