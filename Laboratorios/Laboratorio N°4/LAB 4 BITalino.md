@@ -56,18 +56,81 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 - **Google Colab (Python):** Procesamiento digital y análisis de datos.
 
 ## 4. Procedimiento
-1. **Limpieza de Piel:** Se limpió la zona muscular con poca vellosidad.
-2. **Conexión del equipo:** Conexión del cable de 3 vías al puerto EMG del BITalino y energización con batería Li-Po.
-3. **Colocación de electrodos:** Electrodos alineados a las fibras musculares; el de referencia se ubicó en una zona ósea (codo).
-4. **Conectividad:** Emparejamiento por Bluetooth entre BITalino y computadora.
-5. **Configuración:** En OpenSignals se ingresó la MAC del dispositivo y frecuencia de muestreo.
-6. **Tomas de movimiento:** Grabación de 3 repeticiones (reposo, contracción libre y con resistencia) para bíceps y tríceps.
-7. **Procesamiento Digital:** Exportación de datos a Python para filtrado Notch y Pasa Banda, y obtención de la FFT.
+1. **Limpieza de Piel:** <br>Se buscó una zona de poca vellosidad y se procedió a limpiar la zona del músculo a evaluar.
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Imágen 1: Materiales de limpieza con el brazo sin electrodos
+</p>  
+
+2. **Conexión del equipo:** <br>Se conecta el cable de 3 vías al puerto que indica EMG del BITalino (se puede visualizar en su datasheet) y se energiza la placa conectándolo a la batería Li-Po.
+
+3. **Colocación de electrodos:** <br>Una vez identificado el músculo que se desea evaluar se procede a colocar los electrodos de medición en el músculo alineados en el sentido de las fibras musculares y el electrodo de referencia se coloca en una zona ósea eléctricamente neutra como el codo.
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Imágen 2: Colocación de electrodos en el bíceps con la referencia en el codo.
+</p>  
 
 <p align="center">
   <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
 </p>
-<p align="center"> <i>Video 1. "Descripción del video"</i> </p>
+<p align="center">
+  Imágen 3: Colocación de electrodos en el trícep con la referencia en el codo.
+</p> 
+
+
+4. **Conectividad del BITalino con Software:** <br>una vez encendido el BITalino se empareja mediante Bluetooth con la computadora para que posteriormente se use con el Software.
+   
+5. **Configuración del Software:** <br>se abre el software OpenSignals y se configura el dispositivo ingresando su dirección MAC, seleccionamos el canal correspondiente al sensor de EMG y se establece la frecuencia de muestreo.
+   
+6. **Tomas de movimiento:** <br>se inició la grabación en el OpenSignals con las tres repeticiones de contracciones para cada músculo (bicep y tricep), se realizó una en reposo, una sin fuerzas en contra del movimiento y una sometida a una fuerza al sentido contrario del recorrido del músculo, entre cada repetición hubo un minuto de reposo.
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Video 1: Grabación del brazo con el bíceps en reposo.
+</p>  
+
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Video 2: Grabación del movimiento del brazo con el bíceps en contracción.
+</p>  
+
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Video 3: Grabación del movimiento del brazo con el bíceps en contracción sometido a fuerzas en el sentido contrario al movimiento.
+</p>  
+
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Video 4: Grabación del brazo con el tricep en reposo.
+</p>  
+
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Video 5: Grabación del movimiento del brazo con el tricep en contracción.
+</p>  
+
+<p align="center">
+  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+</p>
+<p align="center">
+  Video 6: Grabación del movimiento del brazo con el tricep en contracción sometido a fuerzas en el sentido contrario al movimiento.
+</p>  
+
+7. **Análisis y Procesamiento Digital:** <br>finalizando la grabación se exporto los datos a google collab, en python se importa la librería de opensignalsreader y se graficaron respecto al tiempo cada una de las señales y posteriormente se filtro la señal por Notch (Rechaza Banda) y Pasa Banda, para finalmente obtener transformada rápida de fourier de las distintas señales.
+
 
 ## 5. Resultados
 1. **Bíceps – Reposo** 
@@ -75,13 +138,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%201.png" width="70%">
 </p>
 <p align="center">
-  Figura 1: Señal EMG de bíceps en reposo (cruda vs. filtrada)
+  Imágen 4: Señal EMG de bíceps en reposo (cruda vs. filtrada)
 </p>
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%202.png" width="70%">
 </p>
 <p align="center">
-  Figura 2: Espectro de frecuencia – Bíceps en reposo (señal filtrada)
+  Imágen 5: Espectro de frecuencia – Bíceps en reposo (señal filtrada)
 </p>
 
 2. **Bíceps – Flexión**
@@ -89,13 +152,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%203.png" width="70%">
 </p>
 <p align="center">
-  Figura 3: Señal EMG de bíceps durante flexión (cruda vs. filtrada)
+  Imágen 6: Señal EMG de bíceps durante flexión (cruda vs. filtrada)
 </p>
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%204.png" width="70%">
 </p>
 <p align="center">
-  Figura 4: Espectro de frecuencia – Bíceps en flexión
+  Imágen 7: Espectro de frecuencia – Bíceps en flexión
 </p>
 
 3. **Bíceps – Flexión con peso**
@@ -103,13 +166,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%205.png" width="70%">
 </p>
 <p align="center">
-  Figura 5: Señal EMG de bíceps durante flexión con peso (cruda vs. filtrada)
+  Imágen 8: Señal EMG de bíceps durante flexión con peso (cruda vs. filtrada)
 </p>
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%206.png" width="70%">
 </p>
 <p align="center">
-  Figura 6: Espectro de frecuencia – Bíceps en flexión con peso
+  Imágen 9: Espectro de frecuencia – Bíceps en flexión con peso
 </p>
 
 4. **Tríceps – Reposo**
@@ -117,13 +180,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%207.png" width="70%">
 </p>
 <p align="center">
-  Figura 7: Señal EMG de tríceps en reposo (cruda vs. filtrada)
+  Imágen 10: Señal EMG de tríceps en reposo (cruda vs. filtrada)
 </p>
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%208.png" width="70%">
 </p>
 <p align="center">
-  Figura 8: Espectro de frecuencia – Tríceps en reposo
+  Imágen 11: Espectro de frecuencia – Tríceps en reposo
 </p>
 
 5. **Tríceps – Extensión**
@@ -131,13 +194,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%209.png" width="70%">
 </p>
 <p align="center">
-  Figura 9: Señal EMG de tríceps durante extensión (cruda vs. filtrada)
+  Imágen 12: Señal EMG de tríceps durante extensión (cruda vs. filtrada)
 </p>
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2010.png" width="70%">
 </p>
 <p align="center">
-  Figura 10: Espectro de frecuencia – Tríceps en extensión
+  Imágen 13: Espectro de frecuencia – Tríceps en extensión
 </p>
 
 6. **Tríceps – Extensión con peso**
@@ -145,13 +208,13 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2011.png" width="70%">
 </p>
 <p align="center">
-  Figura 11: Señal EMG de tríceps durante extensión con peso (cruda vs. filtrada)
+  Imágen 14: Señal EMG de tríceps durante extensión con peso (cruda vs. filtrada)
 </p>
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2012.png" width="70%">
 </p>
 <p align="center">
-  Figura 12: Espectro de frecuencia – Tríceps en extensión con peso
+  Imágen 15: Espectro de frecuencia – Tríceps en extensión con peso
 </p>
 
 <div align="justify">
