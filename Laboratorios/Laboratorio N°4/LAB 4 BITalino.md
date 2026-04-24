@@ -88,9 +88,8 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
    
 6. **Tomas de movimiento:** <br>se inició la grabación en el OpenSignals con las tres repeticiones de contracciones para cada músculo (bicep y tricep), se realizó una en reposo, una sin fuerzas en contra del movimiento y una sometida a una fuerza al sentido contrario del recorrido del músculo, entre cada repetición hubo un minuto de reposo.
 <p align="center">
-  <img src="" width="80%">
   
-
+https://github.com/user-attachments/assets/2694219f-ec41-4563-9e8a-908b10dbf7e5
 
 </p>
 <p align="center">
@@ -98,36 +97,35 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 </p>  
 
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+
+https://github.com/user-attachments/assets/5070b867-e1d1-4596-a6e3-b01c3ad91cf5
 </p>
 <p align="center">
   Video 2: Grabación del movimiento del brazo con el bíceps en contracción.
 </p>  
 
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+
+https://github.com/user-attachments/assets/9a7af7b2-5c45-4404-8cd5-7f5c67dce424
 </p>
 <p align="center">
   Video 3: Grabación del movimiento del brazo con el bíceps en contracción sometido a fuerzas en el sentido contrario al movimiento.
 </p>  
 
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
-  
 
-Uploading tricep en reposo.mp4…
-
-
+https://github.com/user-attachments/assets/f4e355d3-a776-402f-a6a8-03769794a1d7
 </p>
 <p align="center">
   Video 4: Grabación del brazo con el tricep en reposo.
 </p>   
 
 <p align="center">
-  <img src="TU_LINK_DE_VIDEO_O_GIF?raw=true" width="80%">
+
+https://github.com/user-attachments/assets/db4d7539-e163-4ded-ad6f-a7e125c66b2a
 </p>
 <p align="center">
-  Video 6: Grabación del movimiento del brazo con el tricep en contracción sometido a fuerzas en el sentido contrario al movimiento.
+  Video 5: Grabación del movimiento del brazo con el tricep en contracción sometido a fuerzas en el sentido contrario al movimiento.
 </p>  
 
 7. **Análisis y Procesamiento Digital:** <br>finalizando la grabación se exporto los datos a google collab, en python se importa la librería de opensignalsreader y se graficaron respecto al tiempo cada una de las señales y posteriormente se filtro la señal por Notch (Rechaza Banda) y Pasa Banda, para finalmente obtener transformada rápida de fourier de las distintas señales.
