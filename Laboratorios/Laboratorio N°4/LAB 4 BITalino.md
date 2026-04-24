@@ -279,7 +279,7 @@ Respecto a la ubicación en el cuerpo, existen diferencias importantes. Los mús
 4. **Q4.Show a screenshot of a relevant portion of Electromyography (EMG) data within the experiment proposed on Section D of a facial muscle of interest. Does this signal correspond to what you expected? Why? Which emotion and action did you perform to trigger the muscle? Which muscle did you trigger?** <br>La lectura y grafica del EMG en la seccion del musculo facial no se realizo en nuestro grupo pero para observar nuevos cambios en la gráfica, el usuario debe de de realizar gesticulaciones faciales como la sonrisa que es de las mas notorias, con este movimiento se activa los músculos del cigomático mayor.
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/TABALA%20DE%20SEÑALES%20EMG.png" width="80%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Im%C3%A1genes%20Laboratorio%20N%C2%B04/EMG%20facial.png" width="80%">
 </p>
 
 5. **Q5. To the best of your knowledge, does the EMG amplitude equal to the amount of force that you have generated with your muscle?** <br>No equivalen lo mismo, ya que la señal EMG mide la activación eléctrica generada por los músculos y no el resultado mecánico (la fuerza aplicada). Esta diferencia varía drásticamente en la fatiga ya que la señal eléctrica aumenta para poder mantener una misma fuerza, estos también cambia según la longitud del músculo y qué tipo de movimiento se realiza .
