@@ -11,3 +11,13 @@
 - 3. Metodologia
 - 4. Discusión
 - 5. Referencias
+Introducción
+Objetivos
+Materiales y equipos
+Procedimiento
+Resultados
+Discusión
+6.1 Análisis de Resultados
+6.2 Limitaciones
+Quiz 
+Bibliografía
