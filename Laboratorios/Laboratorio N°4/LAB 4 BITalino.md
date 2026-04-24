@@ -242,7 +242,9 @@ Se obtuvieron registros de la actividad eléctrica para los músculos bíceps y 
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/TABALA%20DE%20SEÑALES%20EMG.png" width="80%">
 </p>
-
+<p align="center">
+  Imágen 16: Tabla de las distribuciones de las gráficas para los distintos movimientos de biceps y tricep.
+</p>
 
 <div align="justify">
 En el dominio de la frecuencia, se comprueba que el contenido energético principal de las contracciones musculares del brazo (músculos grandes) se encuentra acotado en el rango de 50 Hz a 150 Hz. Asimismo, se observa una atenuación drástica de la señal al acercarse a los 300 Hz, lo que concuerda con la teoría fisiológica de la electromiografía de superficie
