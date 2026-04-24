@@ -25,7 +25,7 @@ El segmento ST es la porción del ECG que conecta el final del complejo QRS con 
 
 
 <p align="center"> 
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Screenshot_2026-04-05-19-02-39-53_a1b1bbe5f63d5b96c1a0f87c197ebfae.jpg?raw=true" width="80%"> 
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Proyecto/senales.png" width="80%"> 
 </p>
 <p align="center"> <i>Figura 1. Electrocardiograma con elevación del segmento T [6]</i> </p>
 
