@@ -290,13 +290,18 @@ Respecto a la ubicación en el cuerpo, existen diferencias importantes. Los mús
 
 
 ## 8. Bibliografía
-1. Boyer M, Bouyer L, Roy JS, Campeau-Lecours A. Reducing noise, artifacts and interference in single-channel EMG signals: a review. Sensors (Basel). 2023;23(6):2927. doi: 10.3390/s23062927.
-2. Rey Vicente N. Desarrollo de una solución hardware y software para la recogida y procesamiento de señales fisiológicas [trabajo de fin de grado]. Valladolid: Universidad de Valladolid; 2022.
-3. BITalino. Home guide: EMG sensor [Internet]. PLUX Wireless Biosignals SA; 2022 [citado 2026 Abr 23]. Disponible en: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide1_EMG.pdf
-4. Marcarian D. Protecting bioelectric signals from electromagnetic interference in a wireless world. En: Biomedical engineering. IntechOpen; 2022. doi: 10.5772/intechopen.105951.
-5. Arekhloo NG, et al. Investigating the volume conduction effect in MMG and EMG during action potential recording. En: Proceedings of the 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS); 2022 Oct. p. 1 doi: 10.1109/ICECS202256217.2022.9971020.
-6. McManus L, De Vito G, Lowery MM. Analysis and biophysics of surface EMG for physiotherapists and kinesiologists: toward a common language with rehabilitation engineers. Front Neurol. 2020;11:576729. doi: 10.3389/fneur.2020.576729.
-7. Germer CM, Farina D, Elias LA, Nuccio S, Hug F, Del Vecchio A. Surface EMG cross talk quantified at the motor unit population level for muscles of the hand, thigh, and calf. J Appl Physiol. 2021;131(2):808–20. doi: 10.1152/japplphysiol.01041.2020.
-8. Farina D, Merletti R, Enoka RM. The extraction of neural strategies from the surface EMG. J Appl Physiol. 2004;96(4):1486-95. doi: 10.1152/japplphysiol.01070.2003.
-9. Disselhorst-Klug C, Schmitz-Rode T, Rau G. Surface electromyography and muscle force: limits in sEMG-force relationship and new approaches for applications. Clin Biomech (Bristol, Avon). 2008;23(1):1-10. doi: 10.1016/j.clinbiomech.2008.09.003.
-10. Kuiken TA, Lowery MM, Stoykov NS. The effect of subcutaneous fat on myoelectric signal amplitude and cross-talk. Prosthet Orthot Int. 2003;27(1):48-54. doi: 10.3109/03093640309167976.
+[1] Fundación Española del Corazón. Electrocardiograma [Internet]. Madrid: Fundación Española del Corazón; [citado 28 abr 2026]. Disponible en: https://fundaciondelcorazon.com/informacion-para-pacientes/metodos-diagnosticos/electrocardiograma.html 
+[2] Zavala-Villeda JA. Descripción del electrocardiograma normal y lectura del electrocardiograma [Internet]. Revista Mexicana de Anestesiología. Ciudad de México: Colegio Mexicano de Anestesiología; 2017 [citado 28 abr 2026]. Disponible en: https://www.medigraphic.com/pdfs/rma/cma-2017/cmas171bj.pdf 
+[3] Klabunde RE. Heart Failure - Introduction [Internet]. En: Cardiovascular Physiology Concepts. 2nd ed. [citado 28 abr 2026]. Disponible en: https://cvphysiology.com/heart-failure/hf002 
+[4] BITalino. BITalino (r)evolution Lab Guide: Experimental Guides to Meet & Learn Your Biosignals [Internet]. [citado 28 abr 2026]. Disponible en: https://bitalino.com/storage/uploads/media/revolution-lab-guide.pdf
+[5]J. Pan and W. J. Tompkins, "A Real-Time QRS Detection Algorithm," in IEEE Transactions on Biomedical Engineering, vol. BME-32, no. 3, pp. 230-236, March 1985, 
+doi: 10.1109/TBME.1985.325532.
+https://ieeexplore.ieee.org/document/4122029
+
+[A] Midani W, Ltifi H, Ben Ayed M. A comprehensive review of noise removal techniques in ECG signal processing. Procedia Comput Sci. 2025;270:4134–4143. doi:10.1016/j.procs.2025.09.538.  
+[B] Vinzio Maggio AC, Bonomini MP, Laciar Leber E, Arini PD. Cuantificación de la dispersión de la repolarización ventricular mediante procesamiento digital del ECG de superficie. Buenos Aires: Instituto Argentino de Matemática “A. Calderón”, CONICET; 2012 Jan. doi:10.5772/23050. 
+ 
+[M] V. Atanasoski et al., “A Morphology-Preserving algorithm for denoising of EMG-Contaminated ECG signals,” IEEE Open Journal of Engineering in Medicine and Biology, vol. 5, pp. 296–305, Jan. 2024, doi: 10.1109/ojemb.2024.3380352.
+
+[N] X. An, Y. Liu, Y. Zhao, S. Lu, G. K. Stylios, and Q. Liu, “Adaptive motion artifact reduction in wearable ECG measurements using impedance pneumography signal,” Sensors, vol. 22, no. 15, p. 5493, Jul. 2022, doi: 10.3390/s22155493.
+
