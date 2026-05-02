@@ -26,6 +26,36 @@
 
 
 
+## 1. Introducción
+<div align="justify">
+La electromiografía (EMG) es una técnica que se usa en gran medida para registrar la actividad eléctrica de los músculos, mediante la medición de los potenciales producidos durante la contracción muscular, siendo representativa la actividad neuromuscular y útil para análisis del movimiento, diagnóstico de enfermedades del sistema motor y rehabilitación [1].
+
+Para la adquisición de señales EMG, se pueden aplicar técnicas invasivas, que utilizan electrodos introducidos en el músculo, o la electromiografía de superficie (sEMG), que utiliza electrodos ubicados en la superficie de la piel. Esta última técnica, muestra la actividad de varias unidades motoras superpuestas, además tiene un mayor uso debido a que es menos incómoda para el paciente y no es invasiva [1,2].
+
+Las señales sEMG tienen amplitudes que varían entre microvoltios y milivoltios, lo cual las vuelve muy propensas a interferencias de ruido, como artefactos de movimiento. Por ello, necesitan ser procesadas para conseguir una señal de alta calidad [2]. A partir de estas señales se pueden medir parámetros como la coordinación entre grupos musculares, la fatiga y la activación muscular a partir de estas señales.
+
+Para una correcta adquisición, es esencial garantizar que el sensor y la piel estén bien acoplados usando electrodos pregelificados. Además, dispositivos como BITalino permiten la adquisición portátil y accesible de señales sEMG, facilitando su registro en tiempo real y posterior análisis [3].
+
+</div>
+
+
+## 2. Objetivos
+- Registrar señales de sEMG tanto en estados de reposo como de contracción muscular.
+- Determinar las propiedades fundamentales de la señal, como su variabilidad y amplitud.
+- Evaluar el nivel de calidad de la señal considerando la presencia de ruido y la ubicación de los electrodos.
+
+## 3. Materiales y Equipos
+### Hardware
+- **Electrodos:** Superficie de Ag/AgCl desechables.
+- **Placa de adquisición:** BITalino (incluye microcontrolador, módulo EMG y Bluetooth).
+- **Cables:** Cable de electrodos de 3 vías con conectores tipo snap.
+- **Batería:** Li-Po (3.7V).
+
+### Software
+- **OpenSignals (r)evolution:** Visualización y adquisición en tiempo real.
+- **Google Colab (Python):** Procesamiento digital y análisis de datos.
+- 
+
 ## 6. Discusión
 ### 6.1 Análisis de Resultados
 <div align="justify">
