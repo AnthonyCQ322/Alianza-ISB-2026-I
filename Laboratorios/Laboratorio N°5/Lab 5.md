@@ -99,16 +99,40 @@ Análisis y Procesamiento Digital: Tras finalizar el protocolo, se detuvo la gra
 
 ## 5. Resultados
 5.1.1. Señal basal en 1era derivación
-
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/0.png" width="70%">	
+</p> 
+<p align="center">	
 Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (basal, derivación I).
+</p> 
 
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/1.jpg" width="70%">
+</p> 
+<p align="center">	  
 Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (basal, derivación I).
+</p> 
 
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/2.jpg" width="70%">
+</p> 
+<p align="center">	
 Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (basal, derivación I).
+</p> 
 
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/3.jpg" width="70%">
+</p> 
+<p align="center">	  
 Figura 4. Frecuencia cardiaca instantánea (basal, derivación I).
+</p> 
 
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/4.jpg" width="70%">
+</p> 
+<p align="center">	  
 Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (basal, derivación I).
+</p> 
 
 5.1.2. Señal basal en 2da derivación
 
