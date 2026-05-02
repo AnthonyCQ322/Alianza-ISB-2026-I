@@ -794,44 +794,48 @@ y la frecuencia cardíaca disminuye.
 ## 7. Quiz
 1. **Q1.What are the most typical types of noise sources affecting ECG?**
 <br>Diversas fuentes de ruido pueden influir en las señales de ECG, lo que las degrada y complica su análisis. Algunas de las más frecuentes son:
-
-Desviación de la línea base (BW, por sus siglas en inglés): Es una fluctuación de baja frecuencia provocada principalmente por la respiración, el movimiento del cuerpo o las alteraciones en el contacto entre el electrodo y la piel.
-
-Interferencia de la red eléctrica (conocida como PLI): Ruido generado por campos electromagnéticos de aparatos eléctricos próximos, que se distingue por una señal sinusoidal con frecuencia de 50 o 60 Hz.
-Ruido electromiográfico (EMG): Se produce por la actividad eléctrica de los músculos esqueléticos, en particular durante las contracciones o el movimiento, cuyos elementos de frecuencia pueden sobreponerse con el complejo QRS. 
-
-Artefactos de movimiento y electrodos (EM/MA): Son generados por el movimiento de los electrodos o cables, que cambia la impedancia al entrar en contacto con la piel.
-
-Ruido blanco gaussiano aditivo (AWGN): Ruido aleatorio que es generado por los sistemas electrónicos de adquisición.
-
-Por consiguiente, el conjunto de estos ruidos tienen la posibilidad de alterar la interpretación de la señal ECG. Por lo que es crucial disminuirlos a través de una colocación apropiada de electrodos y condiciones de adquisición [A], [B].
-
-
+- **Desviación de la línea base (BW, por sus siglas en inglés):** Es una fluctuación de baja frecuencia provocada principalmente por la respiración, el movimiento del cuerpo o las alteraciones en el contacto entre el electrodo y la piel.
+- **Interferencia de la red eléctrica (conocida como PLI):** Ruido generado por campos electromagnéticos de aparatos eléctricos próximos, que se distingue por una señal sinusoidal con frecuencia de 50 o 60 Hz.
+- **Ruido electromiográfico (EMG):** Se produce por la actividad eléctrica de los músculos esqueléticos, en particular durante las contracciones o el movimiento, cuyos elementos de frecuencia pueden sobreponerse con el complejo QRS. 
+- **Artefactos de movimiento y electrodos (EM/MA):** Son generados por el movimiento de los electrodos o cables, que cambia la impedancia al entrar en contacto con la piel.
+- **Ruido blanco gaussiano aditivo (AWGN):** Ruido aleatorio que es generado por los sistemas electrónicos de adquisición.
+Por consiguiente, el conjunto de estos ruidos tienen la posibilidad de alterar la interpretación de la señal ECG. Por lo que es crucial disminuirlos a través de una colocación apropiada de electrodos y condiciones de adquisición [5], [6].
 
 
 2. **Q2.Why does the change of the positioning of the sensors (lead I-III) change the ECG signal components? How do the components change?** <br>
 Para cada variación o cambio de posición de los sensores de ECG se observa la actividad eléctrica del corazón desde un ángulo espacial diferente.  
 La excitación de las células musculares cardíacas genera un vector dipolo que se propaga a las células vecinas, las derivaciones bipolares (I, II, II) miden al vector bipolar en el plano frontal con las diferentes combinaciones de los electrodos positivos y negativos.
 Los componentes cambian de la siguiente manera:
-Dirección de la amplitud: Cuando el vector de despolarización se acerca hacia el electrodo positivo de la derivación entonces el componente en el ECG será una onda con deflexión positiva pero si se aleja del electrodo positivo entonces será una deflexión negativa.  
-Tamaño de la amplitud: El tamaño depende del ángulo de dirección de la derivación respecto al vector eléctrico del corazón cuando el dipolo es paralelo a la línea de la derivación su amplitud será máxima.
+- **Dirección de la amplitud:** Cuando el vector de despolarización se acerca hacia el electrodo positivo de la derivación entonces el componente en el ECG será una onda con deflexión positiva pero si se aleja del electrodo positivo entonces será una deflexión negativa.  
+- **Tamaño de la amplitud:** El tamaño depende del ángulo de dirección de la derivación respecto al vector eléctrico del corazón cuando el dipolo es paralelo a la línea de la derivación su amplitud será máxima.
 
 3. **Q3.Describe if there are major differences in the signal when acquiring the signal from different body locations (e.g., wrist / collarbone/ chest). What could be the cause? Did you expect such changes in the signal? Store a signal segment of each to visualize the differences.** <br>
 Si existen diferencias de la señal, sobre todo la amplitud y polaridad del complejo QRS si se cambia la posición de referencia de los electrodos.
-
-
--La actividad eléctrica del corazón surge de la propagación de potenciales de acción que generan un vector dipolar tridimensional cambiante. 
+- La actividad eléctrica del corazón surge de la propagación de potenciales de acción que generan un vector dipolar tridimensional cambiante. 
 La amplitud y forma de la onda registrada dependen del ángulo de ese vector de despolarización relativo al eje de medición. Los electrodos en el pecho están físicamente más cerca del miocardio, por lo que registran una amplitud mucho mayor y capturan detalles específicos de las cámaras cardíacas (ventrículos). 
 En cambio, las posiciones como las muñecas y cresta ilíaca proyectan este vector tridimensional en el plano frontal bidimensional (el triángulo de Einthoven), resultando en amplitudes menores atenuadas por la impedancia de un mayor volumen de tejido.
-
-
--Estos cambios morfológicos eran completamente esperados basándose en los principios teóricos del triángulo de Einthoven y las derivaciones bipolares, donde la magnitud proyectada alcanza su máximo cuando el dipolo cardíaco es paralelo a la línea trazada entre los electrodos [3].
+- Estos cambios morfológicos eran completamente esperados basándose en los principios teóricos del triángulo de Einthoven y las derivaciones bipolares, donde la magnitud proyectada alcanza su máximo cuando el dipolo cardíaco es paralelo a la línea trazada entre los electrodos [3].
 
 
 4. **Q4.The cardiac and the respiratory systems are well interconnected as is well known. Do you expect that different types of breathing (e.g. faster, deeper) to influence the ECG signals? Show screenshots of ECG signals in different respiratory circumstances and described the variations if there are any.** <br>
 Si se espera que los diferentes tipos de respiración afecten estas señales, ya que tanto el sistema respiratorio como el cardiovascular presentan una conexión. Al realizar una comparación entre nuestra linea basal y la hiperventilación se encuentran algunas diferencias:
 
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/89.png" width="70%">
+</p> 
+<p align="center">	
+Figura xx. Segmento de 5 segundos (20-25) de la señal filtrada (basal, derivación II).
+</p> 
 
+<p align="center">	
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/89.png" width="70%">
+</p> 
+<p align="center">	
+Figura xx. Segmento de 5 segundos (20-25s) de la señal filtrada (Primera Hiperventilación, derivación II).
+</p> 
+
+
+Notamos que la señal basal presenta 7 complejos QRS , mientras que la de hiperventilación presenta 8 en el mismo lapso de tiempo. Esto también indica que hubo un acortamiento de los intervalos R-R, provocada por la taquicardia en la hiperventilación. Otra diferencia es que en el gráfico de hiperventilación presenta una variación de las ondas a lo largo del tiempo, esto se podría deber a la expansión y contracción del tórax y los pulmones llenos de aire. Este movimiento puede  desplazar ligeramente los electrodos sobre la piel alterando la impedancia.
 
 
 
@@ -841,14 +845,16 @@ El ruido producido por la contracción de los músculos en el ECG se conoce como
 
 6. **Q6.To the best of your knowledge, how can you detect bradycardia and tachycardia in the ECG signal?** <br>
 
-Taquicardia: Se identifica en el ECG por un acortamiento evidente de los intervalos R-R. Se detecta cuando la frecuencia media constante supera los 100 lpm.
-Bradicardia: Se identifica en el ECG por un alargamiento de los intervalos R-R, mostrando picos muy separados entre sí. 
+- **Taquicardia:** Se identifica en el ECG por un acortamiento evidente de los intervalos R-R. Se detecta cuando la frecuencia media constante supera los 100 lpm.
+- **Bradicardia:** Se identifica en el ECG por un alargamiento de los intervalos R-R, mostrando picos muy separados entre sí. 
 Se detecta cuando la frecuencia media en reposo desciende por debajo de los 60 lpm.
 
 La bradicardia y la taquicardia se detectan principalmente analizando la distancia temporal entre latidos consecutivos en la señal de ECG, específicamente calculando el intervalo R-R (el tiempo transcurrido entre dos picos R sucesivos del complejo QRS). Con este intervalo, se calcula la frecuencia cardíaca (FC) usando la relación [5].
+<p align="center">	
+  FC =  60RR 
+  Donde FC está en latidos por minuto y RR en segundos.
+</p> 
 
-FC =  60RR 
-Donde FC está en latidos por minuto y RR en segundos.
 
 
 
