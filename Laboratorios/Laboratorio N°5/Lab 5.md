@@ -54,7 +54,14 @@ Para una correcta adquisición, es esencial garantizar que el sensor y la piel e
 ### Software
 - **OpenSignals (r)evolution:** Visualización y adquisición en tiempo real.
 - **Google Colab (Python):** Procesamiento digital y análisis de datos.
-- 
+
+
+https://github.com/user-attachments/assets/2694219f-ec41-4563-9e8a-908b10dbf7e5
+
+
+
+
+
 
 ## 6. Discusión
 ### 6.1 Análisis de Resultados
