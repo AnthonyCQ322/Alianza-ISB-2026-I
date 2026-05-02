@@ -37,9 +37,11 @@ En este laboratorio, la obtención de la señal ECG se lleva a cabo con el siste
 
 
 ## 2. Objetivos
-- Registrar señales de sEMG tanto en estados de reposo como de contracción muscular.
-- Determinar las propiedades fundamentales de la señal, como su variabilidad y amplitud.
-- Evaluar el nivel de calidad de la señal considerando la presencia de ruido y la ubicación de los electrodos.
+-  Comprender el origen fisiológico de la señal electrocardiográfica (ECG). Adquirir señales ECG en tiempo real utilizando el sistema BITalino y el software OpenSignals. 
+- Adquirir señales ECG en tiempo real utilizando el sistema BITalino y el software OpenSignals. 
+- Evaluar el efecto de la posición de los electrodos en las derivaciones I, II y III del ECG.
+- Analizar la influencia del ruido y otros factores (movimiento, respiración) en la calidad de la señal ECG.
+
 
 ## 3. Materiales y Equipos
 ### Hardware
