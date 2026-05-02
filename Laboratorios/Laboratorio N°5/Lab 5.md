@@ -569,35 +569,35 @@ Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) 
 
 5.4.2. Burpee en 2da derivación
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/65.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/65.png" width="70%">
 </p> 
 <p align="center">	
 Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (burpee, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/66.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/66.png" width="70%">
 </p> 
 <p align="center">	
 Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (burpee, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/67.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/67.png" width="70%">
 </p> 
 <p align="center">	
 Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (burpee, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/68.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/68.png" width="70%">
 </p> 
 <p align="center">	
 Figura 4. Frecuencia cardiaca instantánea (burpee, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/69.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/69.png" width="70%">
 </p> 
 <p align="center">	
 Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (burpee, derivación II).
@@ -605,35 +605,35 @@ Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) 
 
 5.4.3. Burpee en 3ra derivación
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/70.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/70.png" width="70%">
 </p> 
 <p align="center">	
 Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (burpee, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/71.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/71.png" width="70%">
 </p> 
 <p align="center">	
 Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (burpee, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/72.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/72.png" width="70%">
 </p> 
 <p align="center">	
 Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (burpee, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/73.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/73.png" width="70%">
 </p> 
 <p align="center">	
 Figura 4. Frecuencia cardiaca instantánea (burpee, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/74.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/74.png" width="70%">
 </p> 
 <p align="center">	
 Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (burpee, derivación III).
@@ -641,35 +641,35 @@ Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) 
 
 5.5.1. Hipoventilación en 1ra derivación
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/75.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/75.png" width="70%">
 </p> 
 <p align="center">	
 Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Hipoventilación, derivación I).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/76.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/76.png" width="70%">
 </p> 
 <p align="center">	
 Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Hipoventilación, derivación I).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/77.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/77.png" width="70%">
 </p> 
 <p align="center">	
 Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Hipoventilación, derivación I).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/78.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/78.png" width="70%">
 </p> 
 <p align="center">	
 Figura 4. Frecuencia cardiaca instantánea (Hipoventilación, derivación I).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/79.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/79.png" width="70%">
 </p> 
 <p align="center">	
 Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Hipoventilación, derivación I).
@@ -677,35 +677,35 @@ Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) 
 
 5.5.2. Hipoventilación en 2da derivación
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/80.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/80.png" width="70%">
 </p> 
 <p align="center">	
 Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Hipoventilación, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/81.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/81.png" width="70%">
 </p> 
 <p align="center">	
 Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Hipoventilación, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/82.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/82.png" width="70%">
 </p> 
 <p align="center">	
 Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Hipoventilación, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/83.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/83.png" width="70%">
 </p> 
 <p align="center">	
 Figura 4. Frecuencia cardiaca instantánea (Hipoventilación, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/84.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/84.png" width="70%">
 </p> 
 <p align="center">	
 Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Hipoventilación, derivación II).
@@ -713,35 +713,35 @@ Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) 
 
 5.5.3. Hipoventilación en 3ra derivación
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/85.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/85.png" width="70%">
 </p> 
 <p align="center">	
 Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Hipoventilación, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/86.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/86.png" width="70%">
 </p> 
 <p align="center">	
 Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Hipoventilación, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/87.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/87.png" width="70%">
 </p> 
 <p align="center">	
 Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Hipoventilación, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/88.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/88.png" width="70%">
 </p> 
 <p align="center">	
 Figura 4. Frecuencia cardiaca instantánea (Hipoventilación, derivación III).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/89.jpg" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/89.png" width="70%">
 </p> 
 <p align="center">	
 Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Hipoventilación, derivación III).
