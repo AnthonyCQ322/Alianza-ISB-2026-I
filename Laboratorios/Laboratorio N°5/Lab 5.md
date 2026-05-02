@@ -821,14 +821,14 @@ En cambio, las posiciones como las muñecas y cresta ilíaca proyectan este vect
 Si se espera que los diferentes tipos de respiración afecten estas señales, ya que tanto el sistema respiratorio como el cardiovascular presentan una conexión. Al realizar una comparación entre nuestra linea basal y la hiperventilación se encuentran algunas diferencias:
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/89.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/Q4_1.png" width="70%">
 </p> 
 <p align="center">	
 Figura xx. Segmento de 5 segundos (20-25) de la señal filtrada (basal, derivación II).
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/89.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/Q4_2.png" width="70%">
 </p> 
 <p align="center">	
 Figura xx. Segmento de 5 segundos (20-25s) de la señal filtrada (Primera Hiperventilación, derivación II).
