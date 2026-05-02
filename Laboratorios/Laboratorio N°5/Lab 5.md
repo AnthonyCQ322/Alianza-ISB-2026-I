@@ -52,7 +52,6 @@ En este laboratorio, la obtención de la señal ECG se lleva a cabo con el siste
 
 ### Software
 - **OpenSignals (r)evolution**, es el software que va en conjunto del BITalino para capturar, visualizar y guardar la señal ECG en tiempo real.
-- 
 - **Google Colab (Python):** Procesamiento digital y análisis de datos.
 
 
