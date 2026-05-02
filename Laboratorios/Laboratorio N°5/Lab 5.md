@@ -58,41 +58,54 @@ En este laboratorio, la obtención de la señal ECG se lleva a cabo con el siste
 ## 4. Procedimiento
 1. **Limpieza de Piel y Ubicación de electrodos** <br>Delimitamos la ubicación necesaria para los tres electrodos (dos cerca a la clavícula y uno en la cresta ilíaca izquierda). Luego se limpia el área de colocación de los electrodos para hacer uso junto al BITalino para las mediciones después de las actividades físicas. Con el software OpenSignals (r)evolution, se inició el proceso de grabación de datos.
 
-[FOTO LIMPIANDO*[)
-Imágen 1: Materiales de limpieza con el brazo sin electrodos
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/ecg2.png" width="70%">
+</p>
+<p align="center">
+Imágen 1: Materiales de limpieza con el brazo sin electrodos.
+</p>
+
 
 2. **Conexión del equipo y Primera medición**<br> Se conectó el sensor de ECG al canal analógico de la placa BITalino. Posteriormente, se realiza la medida del ECG en reposo así que se colocaron los 3 conectores de los electrodos a sus electrodos (IN+, IN- y REF) según corresponda para cada medida de derivada (I, II, III) .
 Derivación I:
-Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
-Cable Positivo (IN+): Se coloca en la Clavícula Izquierda.
-Referencia (REF): Se coloca en la Cresta Ilíaca Izquierda.
+- Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
+- Cable Positivo (IN+): Se coloca en la Clavícula Izquierda.
+- Referencia (REF): Se coloca en la Cresta Ilíaca Izquierda.
 	Derivación II:
-Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
-Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
-Referencia (REF): Se coloca en la Clavícula Izquierda.
+- Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
+- Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
+- Referencia (REF): Se coloca en la Clavícula Izquierda.
 	Derivación III:
-Cable Negativo (IN-): Se coloca en la Clavícula Izquierda.
-Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
-Referencia (REF): Se coloca en la Clavícula Derecha.
+- Cable Negativo (IN-): Se coloca en la Clavícula Izquierda.
+- Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
+- Referencia (REF): Se coloca en la Clavícula Derecha.
 
-[FOTO COLOCANDO*[)
-Imágen 2: Medición de la señal ECG en posición de reposo
-[VIDEO MAYBE]
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/ecg1.png" width="70%">
+</p>
+<p align="center">
+Imágen 2: Medición de la señal ECG en posición de reposo para cada derivación.
+</p>
 
 3. **Tomas de movimiento con el ECG** <br> El usuario realiza secuencialmente una serie de actividades y al finalizar su actividad se mide inmediatamente con los electrodos para cada derivación I, II y III.
-Se repitió 3 veces un ciclo de respiración: Inhalación - retener la respiración - exhalación - retener la respiración.
-El usuario realizó un esfuerzo físico intenso 2 minutos de burpees para observar los cambios en la frecuencia cardíaca después del ejercicio.
-[vido burpee]
+- Se repitió 3 veces un ciclo de respiración: Inhalación - retener la respiración - exhalación - retener la respiración.
+- El usuario realizó un esfuerzo físico intenso 2 minutos de burpees para observar los cambios en la frecuencia cardíaca después del ejercicio.
 
-Video : Grabación de la señal ECG registrando el aumento de la frecuencia cardíaca tras el ejercicio.
-Inhalación larga y profunda seguida de la máxima retención de la respiración que pueda el usuario.
-[vido hipoventialcion]
-Video : Grabación de la señal ECG registrando el aumento de la frecuencia cardíaca tras el ejercicio.
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/ecg3.png" width="70%">
+</p>
+<p align="center">
+Imágen 3: Usuario realizando la actividad de burpees.
+</p>
+
+- Inhalación larga y profunda seguida de la máxima retención de la respiración que pueda el usuario.
 
 4. **Última medición del sensor de ECG** <br> El usuario descansa por 2 minutos luego de las actividades físicas y posteriormente se le vuelve a realizar mediciones mientras está en reposo para las 3 derivaciones (i, II, III).
 [vido o imagen segundo descanso]
 imágen XX : Medición de la señal ECG en la fase de recuperación del usuario.
-Análisis y Procesamiento Digital: Tras finalizar el protocolo, se detuvo la grabación y se guardaron los datos y con ayuda de la programación empleando la librería opensignalsreader podemos graficar la señal ECG en el dominio del tiempo y aplicar la Transformada Rápida de Fourier (FFT) para su análisis en frecuencia
+
+
+6. **Análisis y Procesamiento Digital:** Tras finalizar el protocolo, se detuvo la grabación y se guardaron los datos y con ayuda de la programación empleando la librería opensignalsreader podemos graficar la señal ECG en el dominio del tiempo y aplicar la Transformada Rápida de Fourier (FFT) para su análisis en frecuencia
 
 
 
