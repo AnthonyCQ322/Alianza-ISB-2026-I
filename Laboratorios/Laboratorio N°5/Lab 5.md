@@ -68,14 +68,19 @@ Imágen 1: Materiales de limpieza con el brazo sin electrodos.
 
 2. **Conexión del equipo y Primera medición**<br> Se conectó el sensor de ECG al canal analógico de la placa BITalino. Posteriormente, se realiza la medida del ECG en reposo así que se colocaron los 3 conectores de los electrodos a sus electrodos (IN+, IN- y REF) según corresponda para cada medida de derivada (I, II, III) .
 Derivación I:
+
 - Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
 - Cable Positivo (IN+): Se coloca en la Clavícula Izquierda.
 - Referencia (REF): Se coloca en la Cresta Ilíaca Izquierda.
+  
 	Derivación II:
+
 - Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
 - Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
 - Referencia (REF): Se coloca en la Clavícula Izquierda.
+  
 	Derivación III:
+
 - Cable Negativo (IN-): Se coloca en la Clavícula Izquierda.
 - Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
 - Referencia (REF): Se coloca en la Clavícula Derecha.
