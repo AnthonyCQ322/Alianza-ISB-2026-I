@@ -98,7 +98,241 @@ Análisis y Procesamiento Digital: Tras finalizar el protocolo, se detuvo la gra
 
 
 ## 5. Resultados
-1. 
+5.1.1. Señal basal en 1era derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (basal, derivación I).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (basal, derivación I).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (basal, derivación I).
+
+Figura 4. Frecuencia cardiaca instantánea (basal, derivación I).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (basal, derivación I).
+
+5.1.2. Señal basal en 2da derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (basal, derivación II).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (basal, derivación II).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (basal, derivación II).
+
+Figura 4. Frecuencia cardiaca instantánea (basal, derivación II).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (basal, derivación II).
+
+
+5.1.3. Señal basal en 3ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (basal, derivación III).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (basal, derivación III).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (basal, derivación III).
+
+Figura 4. Frecuencia cardiaca instantánea (basal, derivación III).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (basal, derivación III).
+
+
+5.2.1.1. Primera Hiperventilación en 1ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Primera hiperventilación, derivación I).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Primera hiperventilación, derivación I).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Primera hiperventilación, derivación I).
+
+Figura 4. Frecuencia cardiaca instantánea (Primera hiperventilación, derivación I).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Primera hiperventilación, derivación I).
+
+
+5.2.1.2. Primera Hiperventilación en 2da derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Primera hiperventilación, derivación II).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Primera hiperventilación, derivación II).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Primera hiperventilación, derivación II).
+
+Figura 4. Frecuencia cardiaca instantánea (Primera hiperventilación, derivación II).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Primera hiperventilación, derivación II).
+
+
+5.2.1.3. Primera Hiperventilación en 3ra derivación
+
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Primera hiperventilación, derivación III).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Primera hiperventilación, derivación III).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Primera hiperventilación, derivación III).
+
+Figura 4. Frecuencia cardiaca instantánea (Primera hiperventilación, derivación III).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Primera hiperventilación, derivación III).
+
+
+5.2.2.1. Segunda Hiperventilación en 1ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Segunda hiperventilación, derivación I).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Segunda hiperventilación, derivación I).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Segunda hiperventilación, derivación I).
+
+Figura 4. Frecuencia cardiaca instantánea (Segunda hiperventilación, derivación I).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Segunda hiperventilación, derivación I)..
+
+
+5.2.2.2. Segunda Hiperventilación en 2da derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Segunda hiperventilación, derivación II).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Segunda hiperventilación, derivación II).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Segunda hiperventilación, derivación II).
+
+Figura 4. Frecuencia cardiaca instantánea (Segunda hiperventilación, derivación II).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Segunda hiperventilación, derivación II).
+
+
+
+5.2.2.3. Segunda Hiperventilación en 3ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Segunda hiperventilación, derivación III).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Segunda hiperventilación, derivación III).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Segunda hiperventilación, derivación III).
+
+Figura 4. Frecuencia cardiaca instantánea (Segunda hiperventilación, derivación III).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Segunda hiperventilación, derivación III).
+
+
+5.3.1. Segunda Señal basal en 1ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Segunda Señal basal, derivación I).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Segunda Señal basal, derivación I).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Segunda Señal basal, derivación I).
+
+Figura 4. Frecuencia cardiaca instantánea (Segunda Señal basal, derivación I).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Segunda Señal basal, derivación I).
+
+
+5.3.2. Segunda Señal basal en 2da derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Segunda Señal basal, derivación II).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Segunda Señal basal, derivación II).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Segunda Señal basal, derivación II.
+
+Figura 4. Frecuencia cardiaca instantánea (Segunda Señal basal, derivación II).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Segunda Señal basal, derivación II).
+
+
+5.3.3. Segunda Señal basal en 3ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Segunda Señal basal, derivación III).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Segunda Señal basal, derivación III).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Segunda Señal basal, derivación III).
+
+Figura 4. Frecuencia cardiaca instantánea (Segunda Señal basal, derivación III).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Segunda Señal basal, derivación III).
+
+
+5.4.1. Burpee en 1ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (burpee, derivación I).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (burpee, derivación I).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (burpee, derivación I).
+
+Figura 4. Frecuencia cardiaca instantánea (burpee, derivación I).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (burpee, derivación I).
+
+
+5.4.2. Burpee en 2da derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (burpee, derivación II).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (burpee, derivación II).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (burpee, derivación II).
+
+Figura 4. Frecuencia cardiaca instantánea (burpee, derivación II).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (burpee, derivación II).
+
+
+5.4.3. Burpee en 3ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (burpee, derivación III).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (burpee, derivación III).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (burpee, derivación III).
+
+Figura 4. Frecuencia cardiaca instantánea (burpee, derivación III).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (burpee, derivación III).
+
+
+5.5.1. Hipoventilación en 1ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Hipoventilación, derivación I).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Hipoventilación, derivación I).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Hipoventilación, derivación I).
+
+Figura 4. Frecuencia cardiaca instantánea (Hipoventilación, derivación I).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Hipoventilación, derivación I).
+
+
+5.5.2. Hipoventilación en 2da derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Hipoventilación, derivación II).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Hipoventilación, derivación II).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Hipoventilación, derivación II).
+
+Figura 4. Frecuencia cardiaca instantánea (Hipoventilación, derivación II).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Hipoventilación, derivación II).
+
+
+5.5.3. Hipoventilación en 3ra derivación
+
+Figura 1. Comparativa de la señal ECG: cruda vs. filtrada (Hipoventilación, derivación III).
+
+Figura 2. Segmento de 5 segundos (20‑25 s) de la señal filtrada (Hipoventilación, derivación III).
+
+Figura 3. Detección de picos R sobre la señal filtrada (puntos rojos) (Hipoventilación, derivación III).
+
+Figura 4. Frecuencia cardiaca instantánea (Hipoventilación, derivación III).
+
+Tabla 1. Métricas de variabilidad de la frecuencia cardíaca (señal completa) (Hipoventilación, derivación III).
+
+
 
 
 
