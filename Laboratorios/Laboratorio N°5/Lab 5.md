@@ -225,47 +225,44 @@ Se obtuvieron registros de la actividad eléctrica para los músculos bíceps y 
 
 
 ## 6. Discusión
-### 6.1 Análisis de Resultados
-<div align="justify">
-  
-- **Análisis en el Dominio del Tiempo:** Las gráficas representan la amplitud de la señal sEMG (en milivoltios) a lo largo del tiempo para las tres condiciones evaluadas: reposo, contracción sin carga y contracción con fuerza en contra.
-  
-- **Estado de Reposo:** La señal se mantuvo en una línea base estable con una amplitud mínima, promediando un valor de casi 0mV y este pequeño error es solo por picos mínimos en 8 y 20 segundos muy similar en ambos. Se observa únicamente un nivel bajo de ruido de fondo, lo cual indica un buen acoplamiento de los electrodos y ausencia de activación de unidades motoras.
-  
-- **Contracción sin fuerzas en contra:** Al iniciar el movimiento voluntario, se registró una ráfaga de potenciales de acción de unidad motora (MUAPs). La amplitud pico a pico aumentó significativamente, alcanzando rangos de -0.3mV a 0.4mV para bíceps, mientras que para los tríceps presentaron un gran aumento de amplitud [-1 ; 1.5]mV, ambos evidencias un patrón de interferencia moderado.
 
-- **Contracción sometida a fuerza en contra:** Durante la contracción isométrica/isotónica con resistencia, la señal mostró su máxima amplitud, llegando a picos de [-0.7 ; 1]mV para los bíceps, mientras que los tríceps presentaron [-1.5 ; 1.7] siendo este pico máximo durante los 40 segundos, luego el músculo se relajo y presentó amplitudes menores.
+###6.1. Análisis de Resultados:
+Primera basal: Con esta etapa nosotros definimos nuestro punto de referencia para luego compararlas con los demás ejercicios. Se muestra una frecuencia cardiaca (HR) esperada , alrededor de 83.9 y 106 lpm lo que indica un funcionamiento relajado donde predomina el sistema parasimpático.
+Primera hiperventilación: La frecuencia cardiaca media  aumenta hasta 112 lpm y la variabilidad disminuye bruscamente en la derivación II. Esto sucede porque la respiración profunda expulsa demasiado CO2 de la sangre. Este desbalance alerta al sistema nervioso simpático, acelerando el corazón.
+Segunda hiperventilación: La HR media aumenta hasta los 116.4 lpm debido al estrés respiratorio que se intensifica debido al esfuerzo acumulado. El cuerpo sigue bajo el estímulo de la hipocapnia, obligando al sistema simpático a mantener el control para compensar esta alteración,volviendo los latidos más rápidos
+Segunda basal: A pesar de que en esta fase nuestro compañero esta en reposo, sus valores no regresan a la línea base inicial. El HR media se mantiene alto (hasta los 113.5 lpm). Esto nos indica que no se recuperó totalmente, por lo cuál el sistema simpático sigue mandando y nos indica que necesita aún más tiempo para que vuelva a su estado basal
+Burpees: Se observa el cambio más drástico del experimento ya que el HR medio se dispara a 162.5 lpm y la variabilidad cae de manera súbita (pNN50 entre 0 y 4.9%). Este enorme carga física hace que la actividad parasimpática sea nula y en cambio una activación simpática en su máximo límite para aumentar el gasto cardíaco y compensar la enorme demanda de oxígeno por parte de los músculos 
+Hipoventilación: Finalmente en este último experimento se nota que nuevamente hay un estado de estrés cardíaco ya que hay una HR elevada y una baja variabilidad. Al retener la respiración de forma repetida, se acumula una fuerte acumulación de CO2(hipercapnia) y un déficit de oxígeno en la sangre. Esta alteración hace que se active el sistema simpático. Como las muestras se realizaron ni bien terminó el ejercicio,se vio como el corazón se esforzó en compensarlo, este bombea de manera rápida para oxigenar nuevamente los tejidos lo más pronto posible tras la apnea
 
-- El patrón de interferencia se volvió mucho más denso, lo cual refleja un mayor reclutamiento de unidades motoras y un incremento en su tasa de disparo espacial y temporal para vencer la resistencia mecánica.
+###6.2. Limitaciones
+Artefactos de Movimiento y adherencia: Al utilizar electrodos de superficie de
+Ag/AgCl, la señal es altamente susceptible a los cambios en la impedancia de la
+interfaz piel-electrodo. 
+Durante las pruebas de esfuerzo físico ,la generación de sudor provocaron pérdidas
+temporales de adherencia, lo que se traduce en variaciones de amplitud y ruido en la
+señal cruda.
 
-- **Análisis en el Dominio de la Frecuencia (Transformada de Fourier):** Para evaluar el contenido espectral de las señales, se aplicó la Transformada Rápida de Fourier (FFT), limitando la visualización del espectro al ancho de banda fisiológico útil de 0 a 500 Hz.
 
-</div>
+Ruido Electromiográfico : Debido a la cercanía de los electrodos a los músculos
+del torso y las extremidades, la actividad de contracción muscular se superpone a la
+señal cardíaca, especialmente visible como un ruido de alta frecuencia en los
+espectros de las fases post-ejercicio.
+También destaca PLI como ruido generado por artefactos electrodomésticos
 
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/TABALA%20DE%20SEÑALES%20EMG.png" width="80%">
-</p>
-<p align="center">
-  Imágen 16: Tabla de las distribuciones de las gráficas para los distintos movimientos de biceps y tricep.
-</p>
 
-<div align="justify">
-En el dominio de la frecuencia, se comprueba que el contenido energético principal de las contracciones musculares del brazo (músculos grandes) se encuentra acotado en el rango de 50 Hz a 150 Hz. Asimismo, se observa una atenuación drástica de la señal al acercarse a los 300 Hz, lo que concuerda con la teoría fisiológica de la electromiografía de superficie
-</div>
 
-### 6.2 Limitaciones
-<div align="justify">
-Las señales de EMG superficial (sEMG) obtenidas en este experimento se enfrentaron a una serie de limitaciones inherentes a esta técnica de medición, así como a factores ambientales y metodológicos.
+Influencia de la respiración en el ECG:
+La respiración afecta al ECG principalmente de dos formas. 
+En primer lugar, genera la desviación de la línea base (Baseline Wander). A medida
+que los pulmones se llenan y vacían de aire, el volumen torácico cambia, alterando
+la impedancia eléctrica entre los electrodos y moviendo físicamente el corazón en
+relación con la posición de los sensores. Esto se observa en los resultados crudos
+como una oscilación lenta de baja frecuencia sobre la cual "monta" el complejo QRS. 
+En segundo lugar, produce un fenómeno fisiológico conocido como Arritmia Sinusal
+Respiratoria (RSA). Durante la inhalación, el tono vagal disminuye y la frecuencia
+cardíaca aumenta de forma natural; durante la exhalación, el tono vagal se restaura
+y la frecuencia cardíaca disminuye.
 
-La sEMG mide la actividad muscular en el rango de microvoltios (μV), es extremadamente susceptible a la interferencia electromagnética (EMI) [4]. En la experiencia, esta susceptibilidad se vio incrementada por la presencia simultánea de varias fuentes de ruido, una situación que compromete la integridad de las señales y puede llevar a interpretaciones erróneas. Aunque se empleó un filtro notch para mitigar la interferencia de la red eléctrica, la presencia de múltiples dispositivos electrónicos cercanos generó ruido adicional que afecta la calidad de la señal.
-
-Por otro lado, la señal presenta una limitación inherente en su resolución espacial debido al efecto de volumen conductor. La señal registrada en la superficie corresponde a una suma espacio-temporal de múltiples unidades motoras activas en la región de captación. Además, la señal se ve modificada al atravesar tejidos como piel, grasa y fascia, lo que altera su forma original. Esto impide localizar con precisión la fuente de la actividad eléctrica y limita el análisis detallado del control neuromuscular [5].
-
-La calidad de la señal de sEMG depende críticamente de la impedancia en la interfaz piel-electrodo. Una alta impedancia dificulta la correcta transmisión de la señal eléctrica y favorece la aparición de ruido y artefactos [6]. Para la experiencia, los factores como la presencia de vello y la ausencia de gel electrolítico afectaron negativamente esta interfaz. La falta de una adecuada preparación de la piel redujo la estabilidad del contacto, comprometiendo la calidad del registro obtenido. Además se tiene se debe tener en cuenta el artefacto dado por el movimiento del cable de los electrodos que se encuentra en un rango de 1 a 50 Hz [6].
-
-La proximidad anatómica y funcional de los músculos del brazo representa un riesgo significativo de diafonía o 'crosstalk', definida como una fuente importante de error en la interpretación de las señales de EMG superficial. Dado que el bíceps y el tríceps son músculos antagonistas y están muy próximos, existe la posibilidad de que la señal detectada sobre uno de ellos contenga actividad eléctrica proveniente del otro. Este riesgo es mayor durante las contracciones, cuando la actividad eléctrica en el músculo activo es sustancialmente mayor [7].
-
-</div>
 
 ## 7. Quiz
 1. **Q1.What are the most typical types of noise sources affecting ECG?**
