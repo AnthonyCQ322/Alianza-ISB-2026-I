@@ -45,10 +45,10 @@ En este laboratorio, la obtención de la señal ECG se lleva a cabo con el siste
 
 ## 3. Materiales y Equipos
 ### Hardware
-- **Electrodos:** Superficie de Ag/AgCl desechables.
-- **Placa de adquisición:** BITalino (incluye microcontrolador, módulo EMG y Bluetooth).
-- **Cables:** Cable de electrodos de 3 vías con conectores tipo snap.
-- **Batería:** Li-Po (3.7V).
+- **Placa BITalino (r)evolution Assembled Core BT**, es el sistema principal de adquisición de señales y que a su vez se comunica vía Bluetooth.
+- **Sensor de Electrocardiografía (ECG)**, ayuda en capturar la actividad eléctrica cardíaca.
+- **3 Electrodos de superficie,** en este caso se utilizó electrodos desechables pre gelificados de Ag/AgCl.
+  
 
 ### Software
 - **OpenSignals (r)evolution:** Visualización y adquisición en tiempo real.
