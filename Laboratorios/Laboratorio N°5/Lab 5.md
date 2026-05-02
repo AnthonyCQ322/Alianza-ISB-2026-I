@@ -28,14 +28,10 @@
 
 ## 1. Introducción
 <div align="justify">
-La electromiografía (EMG) es una técnica que se usa en gran medida para registrar la actividad eléctrica de los músculos, mediante la medición de los potenciales producidos durante la contracción muscular, siendo representativa la actividad neuromuscular y útil para análisis del movimiento, diagnóstico de enfermedades del sistema motor y rehabilitación [1].
-
-Para la adquisición de señales EMG, se pueden aplicar técnicas invasivas, que utilizan electrodos introducidos en el músculo, o la electromiografía de superficie (sEMG), que utiliza electrodos ubicados en la superficie de la piel. Esta última técnica, muestra la actividad de varias unidades motoras superpuestas, además tiene un mayor uso debido a que es menos incómoda para el paciente y no es invasiva [1,2].
-
-Las señales sEMG tienen amplitudes que varían entre microvoltios y milivoltios, lo cual las vuelve muy propensas a interferencias de ruido, como artefactos de movimiento. Por ello, necesitan ser procesadas para conseguir una señal de alta calidad [2]. A partir de estas señales se pueden medir parámetros como la coordinación entre grupos musculares, la fatiga y la activación muscular a partir de estas señales.
-
-Para una correcta adquisición, es esencial garantizar que el sensor y la piel estén bien acoplados usando electrodos pregelificados. Además, dispositivos como BITalino permiten la adquisición portátil y accesible de señales sEMG, facilitando su registro en tiempo real y posterior análisis [3].
-
+El electrocardiograma (ECG) es un método de registro que hace posible la medición de la actividad eléctrica del corazón producida en cada ciclo cardiaco [1]. Esta actividad surge de la propagación de potenciales de acción en el músculo cardíaco, los cuales generan diferencias de potencial que pueden ser registradas en la superficie del cuerpo a través de electrodos [2]. Para obtenerla, se amplifica y registra la señal, lo que posibilita el análisis de las diferentes etapas del ciclo cardíaco. 
+El ECG se puede registrar a través de diferentes disposiciones de electrodos que se conocen como derivaciones, entre ellas se encuentran las derivaciones bipolares de Einthoven (I, II y III), que permiten ver la actividad eléctrica del corazón desde diferentes perspectivas en el plano frontal [3]. Estas derivaciones forman el denominado triángulo de Einthoven, cuya respuesta depende de la dirección del vector de despolarización cardíaca, influyendo en la amplitud y polaridad de las ondas registradas. 
+En este laboratorio, la obtención de la señal ECG se lleva a cabo con el sistema BITalino (r)evolution y el programa OpenSignals, que hacen uso de electrodos de superficie del tipo Ag/AgCl. También se analiza cómo la elección de las derivaciones I, II y III, así como el cambio en la posición de los electrodos, impactan en la morfología y calidad de la señal ECG adquirida, siguiendo la metodología propuesta en la guía del sistema [4]. 
+  
 </div>
 
 
