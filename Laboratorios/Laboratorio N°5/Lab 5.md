@@ -862,7 +862,7 @@ Notamos que la señal basal presenta 7 complejos QRS , mientras que la de hiperv
 
 
 5. **Q5. In Home-Guide #1 you have seen that different amounts of force produced in the muscle generated signals with different amplitudes. How does movement influence your ECG signal?** <br>
-El ruido producido por la contracción de los músculos en el ECG se conoce como artefacto electromiográfico. Durante la adquisición de la señal, la actividad eléctrica de los músculos cercanos a los electrodos presenta un contenido espectral de banda ancha, extendiéndose predominantemente hacia frecuencias más altas (>10 Hz) y superponiéndose con el espectro del complejo QRS [M]. Como consecuencia, la presencia de ruido electromiográfico provoca una interpretación inexacta del ECG, lo que puede derivar en un diagnóstico erróneo de enfermedades cardíacas, decisiones de tratamiento inapropiadas y la generación de falsas alarmas [N].
+El ruido producido por la contracción de los músculos en el ECG se conoce como artefacto electromiográfico. Durante la adquisición de la señal, la actividad eléctrica de los músculos cercanos a los electrodos presenta un contenido espectral de banda ancha, extendiéndose predominantemente hacia frecuencias más altas (>10 Hz) y superponiéndose con el espectro del complejo QRS [7]. Como consecuencia, la presencia de ruido electromiográfico provoca una interpretación inexacta del ECG, lo que puede derivar en un diagnóstico erróneo de enfermedades cardíacas, decisiones de tratamiento inapropiadas y la generación de falsas alarmas [8].
 
 
 6. **Q6.To the best of your knowledge, how can you detect bradycardia and tachycardia in the ECG signal?** <br>
@@ -903,11 +903,4 @@ https://ieeexplore.ieee.org/document/4122029
 
 [9] Midani W, Ltifi H, Ben Ayed M. A comprehensive review of noise removal techniques in ECG signal processing. Procedia Comput Sci. 2025;270:4134–4143. doi:10.1016/j.procs.2025.09.538.  
 
-
-[A] Midani W, Ltifi H, Ben Ayed M. A comprehensive review of noise removal techniques in ECG signal processing. Procedia Comput Sci. 2025;270:4134–4143. doi:10.1016/j.procs.2025.09.538.  
-[B] Vinzio Maggio AC, Bonomini MP, Laciar Leber E, Arini PD. Cuantificación de la dispersión de la repolarización ventricular mediante procesamiento digital del ECG de superficie. Buenos Aires: Instituto Argentino de Matemática “A. Calderón”, CONICET; 2012 Jan. doi:10.5772/23050. 
- 
-[M] V. Atanasoski et al., “A Morphology-Preserving algorithm for denoising of EMG-Contaminated ECG signals,” IEEE Open Journal of Engineering in Medicine and Biology, vol. 5, pp. 296–305, Jan. 2024, doi: 10.1109/ojemb.2024.3380352.
-
-[N] X. An, Y. Liu, Y. Zhao, S. Lu, G. K. Stylios, and Q. Liu, “Adaptive motion artifact reduction in wearable ECG measurements using impedance pneumography signal,” Sensors, vol. 22, no. 15, p. 5493, Jul. 2022, doi: 10.3390/s22155493.
 
