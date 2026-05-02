@@ -31,7 +31,6 @@
 El electrocardiograma (ECG) es un método de registro que hace posible la medición de la actividad eléctrica del corazón producida en cada ciclo cardiaco [1]. Esta actividad surge de la propagación de potenciales de acción en el músculo cardíaco, los cuales generan diferencias de potencial que pueden ser registradas en la superficie del cuerpo a través de electrodos [2]. Para obtenerla, se amplifica y registra la señal, lo que posibilita el análisis de las diferentes etapas del ciclo cardíaco. 
 
 El ECG se puede registrar a través de diferentes disposiciones de electrodos que se conocen como derivaciones, entre ellas se encuentran las derivaciones bipolares de Einthoven (I, II y III), que permiten ver la actividad eléctrica del corazón desde diferentes perspectivas en el plano frontal [3]. Estas derivaciones forman el denominado triángulo de Einthoven, cuya respuesta depende de la dirección del vector de despolarización cardíaca, influyendo en la amplitud y polaridad de las ondas registradas. 
-
 En este laboratorio, la obtención de la señal ECG se lleva a cabo con el sistema BITalino (r)evolution y el programa OpenSignals, que hacen uso de electrodos de superficie del tipo Ag/AgCl. También se analiza cómo la elección de las derivaciones I, II y III, así como el cambio en la posición de los electrodos, impactan en la morfología y calidad de la señal ECG adquirida, siguiendo la metodología propuesta en la guía del sistema [4]. 
   
 </div>
