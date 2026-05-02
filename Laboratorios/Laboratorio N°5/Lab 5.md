@@ -227,15 +227,15 @@ Se obtuvieron registros de la actividad eléctrica para los músculos bíceps y 
 ## 6. Discusión
 
 ### 6.1. Análisis de Resultados:
-Primera basal: Con esta etapa nosotros definimos nuestro punto de referencia para luego compararlas con los demás ejercicios. Se muestra una frecuencia cardiaca (HR) esperada , alrededor de 83.9 y 106 lpm lo que indica un funcionamiento relajado donde predomina el sistema parasimpático.
-Primera hiperventilación: La frecuencia cardiaca media  aumenta hasta 112 lpm y la variabilidad disminuye bruscamente en la derivación II. Esto sucede porque la respiración profunda expulsa demasiado CO2 de la sangre. Este desbalance alerta al sistema nervioso simpático, acelerando el corazón.
-Segunda hiperventilación: La HR media aumenta hasta los 116.4 lpm debido al estrés respiratorio que se intensifica debido al esfuerzo acumulado. El cuerpo sigue bajo el estímulo de la hipocapnia, obligando al sistema simpático a mantener el control para compensar esta alteración,volviendo los latidos más rápidos
-Segunda basal: A pesar de que en esta fase nuestro compañero esta en reposo, sus valores no regresan a la línea base inicial. El HR media se mantiene alto (hasta los 113.5 lpm). Esto nos indica que no se recuperó totalmente, por lo cuál el sistema simpático sigue mandando y nos indica que necesita aún más tiempo para que vuelva a su estado basal
-Burpees: Se observa el cambio más drástico del experimento ya que el HR medio se dispara a 162.5 lpm y la variabilidad cae de manera súbita (pNN50 entre 0 y 4.9%). Este enorme carga física hace que la actividad parasimpática sea nula y en cambio una activación simpática en su máximo límite para aumentar el gasto cardíaco y compensar la enorme demanda de oxígeno por parte de los músculos 
-Hipoventilación: Finalmente en este último experimento se nota que nuevamente hay un estado de estrés cardíaco ya que hay una HR elevada y una baja variabilidad. Al retener la respiración de forma repetida, se acumula una fuerte acumulación de CO2(hipercapnia) y un déficit de oxígeno en la sangre. Esta alteración hace que se active el sistema simpático. Como las muestras se realizaron ni bien terminó el ejercicio,se vio como el corazón se esforzó en compensarlo, este bombea de manera rápida para oxigenar nuevamente los tejidos lo más pronto posible tras la apnea
+- Primera basal: Con esta etapa nosotros definimos nuestro punto de referencia para luego compararlas con los demás ejercicios. Se muestra una frecuencia cardiaca (HR) esperada , alrededor de 83.9 y 106 lpm lo que indica un funcionamiento relajado donde predomina el sistema parasimpático.
+- Primera hiperventilación: La frecuencia cardiaca media  aumenta hasta 112 lpm y la variabilidad disminuye bruscamente en la derivación II. Esto sucede porque la respiración profunda expulsa demasiado CO2 de la sangre. Este desbalance alerta al sistema nervioso simpático, acelerando el corazón.
+- Segunda hiperventilación: La HR media aumenta hasta los 116.4 lpm debido al estrés respiratorio que se intensifica debido al esfuerzo acumulado. El cuerpo sigue bajo el estímulo de la hipocapnia, obligando al sistema simpático a mantener el control para compensar esta alteración,volviendo los latidos más rápidos
+- Segunda basal: A pesar de que en esta fase nuestro compañero esta en reposo, sus valores no regresan a la línea base inicial. El HR media se mantiene alto (hasta los 113.5 lpm). Esto nos indica que no se recuperó totalmente, por lo cuál el sistema simpático sigue mandando y nos indica que necesita aún más tiempo para que vuelva a su estado basal
+- Burpees: Se observa el cambio más drástico del experimento ya que el HR medio se dispara a 162.5 lpm y la variabilidad cae de manera súbita (pNN50 entre 0 y 4.9%). Este enorme carga física hace que la actividad parasimpática sea nula y en cambio una activación simpática en su máximo límite para aumentar el gasto cardíaco y compensar la enorme demanda de oxígeno por parte de los músculos 
+- Hipoventilación: Finalmente en este último experimento se nota que nuevamente hay un estado de estrés cardíaco ya que hay una HR elevada y una baja variabilidad. Al retener la respiración de forma repetida, se acumula una fuerte acumulación de CO2(hipercapnia) y un déficit de oxígeno en la sangre. Esta alteración hace que se active el sistema simpático. Como las muestras se realizaron ni bien terminó el ejercicio,se vio como el corazón se esforzó en compensarlo, este bombea de manera rápida para oxigenar nuevamente los tejidos lo más pronto posible tras la apnea
 
 ### 6.2. Limitaciones
-Artefactos de Movimiento y adherencia: Al utilizar electrodos de superficie de
+- Artefactos de Movimiento y adherencia: Al utilizar electrodos de superficie de
 Ag/AgCl, la señal es altamente susceptible a los cambios en la impedancia de la
 interfaz piel-electrodo. 
 Durante las pruebas de esfuerzo físico ,la generación de sudor provocaron pérdidas
@@ -243,7 +243,7 @@ temporales de adherencia, lo que se traduce en variaciones de amplitud y ruido e
 señal cruda.
 
 
-Ruido Electromiográfico : Debido a la cercanía de los electrodos a los músculos
+- Ruido Electromiográfico : Debido a la cercanía de los electrodos a los músculos
 del torso y las extremidades, la actividad de contracción muscular se superpone a la
 señal cardíaca, especialmente visible como un ruido de alta frecuencia en los
 espectros de las fases post-ejercicio.
@@ -251,7 +251,7 @@ También destaca PLI como ruido generado por artefactos electrodomésticos
 
 
 
-Influencia de la respiración en el ECG:
+- Influencia de la respiración en el ECG:
 La respiración afecta al ECG principalmente de dos formas. 
 En primer lugar, genera la desviación de la línea base (Baseline Wander). A medida
 que los pulmones se llenan y vacían de aire, el volumen torácico cambia, alterando
