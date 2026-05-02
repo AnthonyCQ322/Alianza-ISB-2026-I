@@ -861,12 +861,26 @@ La bradicardia y la taquicardia se detectan principalmente analizando la distanc
 
 ## 8. Bibliografía
 [1] Fundación Española del Corazón. Electrocardiograma [Internet]. Madrid: Fundación Española del Corazón; [citado 28 abr 2026]. Disponible en: https://fundaciondelcorazon.com/informacion-para-pacientes/metodos-diagnosticos/electrocardiograma.html 
+
 [2] Zavala-Villeda JA. Descripción del electrocardiograma normal y lectura del electrocardiograma [Internet]. Revista Mexicana de Anestesiología. Ciudad de México: Colegio Mexicano de Anestesiología; 2017 [citado 28 abr 2026]. Disponible en: https://www.medigraphic.com/pdfs/rma/cma-2017/cmas171bj.pdf 
+
 [3] Klabunde RE. Heart Failure - Introduction [Internet]. En: Cardiovascular Physiology Concepts. 2nd ed. [citado 28 abr 2026]. Disponible en: https://cvphysiology.com/heart-failure/hf002 
+
 [4] BITalino. BITalino (r)evolution Lab Guide: Experimental Guides to Meet & Learn Your Biosignals [Internet]. [citado 28 abr 2026]. Disponible en: https://bitalino.com/storage/uploads/media/revolution-lab-guide.pdf
+
 [5]J. Pan and W. J. Tompkins, "A Real-Time QRS Detection Algorithm," in IEEE Transactions on Biomedical Engineering, vol. BME-32, no. 3, pp. 230-236, March 1985, 
 doi: 10.1109/TBME.1985.325532.
 https://ieeexplore.ieee.org/document/4122029
+
+[6] Vinzio Maggio AC, Bonomini MP, Laciar Leber E, Arini PD. Cuantificación de la dispersión de la repolarización ventricular mediante procesamiento digital del ECG de superficie. Buenos Aires: Instituto Argentino de Matemática “A. Calderón”, CONICET; 2012 Jan. doi:10.5772/23050. 
+ 
+[7] V. Atanasoski et al., “A Morphology-Preserving algorithm for denoising of EMG-Contaminated ECG signals,” IEEE Open Journal of Engineering in Medicine and Biology, vol. 5, pp. 296–305, Jan. 2024, doi: 10.1109/ojemb.2024.3380352.
+
+
+[8] X. An, Y. Liu, Y. Zhao, S. Lu, G. K. Stylios, and Q. Liu, “Adaptive motion artifact reduction in wearable ECG measurements using impedance pneumography signal,” Sensors, vol. 22, no. 15, p. 5493, Jul. 2022, doi: 10.3390/s22155493.
+
+[9] Midani W, Ltifi H, Ben Ayed M. A comprehensive review of noise removal techniques in ECG signal processing. Procedia Comput Sci. 2025;270:4134–4143. doi:10.1016/j.procs.2025.09.538.  
+
 
 [A] Midani W, Ltifi H, Ben Ayed M. A comprehensive review of noise removal techniques in ECG signal processing. Procedia Comput Sci. 2025;270:4134–4143. doi:10.1016/j.procs.2025.09.538.  
 [B] Vinzio Maggio AC, Bonomini MP, Laciar Leber E, Arini PD. Cuantificación de la dispersión de la repolarización ventricular mediante procesamiento digital del ECG de superficie. Buenos Aires: Instituto Argentino de Matemática “A. Calderón”, CONICET; 2012 Jan. doi:10.5772/23050. 
