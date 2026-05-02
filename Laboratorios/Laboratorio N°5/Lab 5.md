@@ -268,25 +268,65 @@ La proximidad anatómica y funcional de los músculos del brazo representa un ri
 </div>
 
 ## 7. Quiz
-1. **Q1.Which are the significant frequencies for EMG acquisitions? Are they the same in all body areas such as facial area?**
-<br>La señal de electromiografía (EMG) se ve directamente afectada por la frecuencia (o velocidad) de disparo de las unidades motoras,en la mayoría de las condiciones, estas unidades motoras se activan o disparan en una región de frecuencia que generalmente está en el rango útil de 20-450 Hz, las señales más bajas de 20Hz representan artefactos, como el movimiento y la respiración, mientras que superiores a 500 Hz son principalmente ruido.
-Aunque la frecuencia de disparo de las unidades motoras base puede moverse en rangos similares, los músculos faciales son mucho más pequeños y complejos que los músculos esqueléticos de las extremidades. Tienen una menor cantidad de fibras por unidad motora, lo que puede influir en su patrón de reclutamiento y en las frecuencias de interferencia.
-En músculos grandes como los bíceps presentan señales más lentas, por el tamaño del músculo, entre 50 y 150 Hz, mientras que músculos más pequeños como los faciales tienen una activación más fina y rápida que se traduce en frecuencias más altas
+1. **Q1.What are the most typical types of noise sources affecting ECG?**
+<br>Diversas fuentes de ruido pueden influir en las señales de ECG, lo que las degrada y complica su análisis. Algunas de las más frecuentes son:
 
-3. **Q2. Which kind of filter is essential when working with EMG signals? Why do we need to apply such a filter?** <br>Utilizamos dos tipos de filtros para las señales EMG estos son el Filtro Notch (Rechaza Banda) y el filtro Pasa Banda.
-Filtro Notch: Este ayuda a eliminar la interferencia de la red eléctrica, nuestro cuerpo humano, cables de los electrodos captan el ruido electromagnético de 60 Hz que irradia la red eléctrica local y los electrodomésticos cercanos. Entonces este filtro suprime esta frecuencia sin distorsionar la señal muscular.
-Filtro Pasa Banda: Normalmente es usado en el rango de 20 a 500 Hz, necesitamos separar las frecuencias fisiológicos útiles, aquellas que son menores de 20 Hz se filtran para eliminar los artefactos de movimiento y las frecuencias mayores a 500 Hz se filtran para eliminar el ruido electrónico de alta frecuencia.
+Desviación de la línea base (BW, por sus siglas en inglés): Es una fluctuación de baja frecuencia provocada principalmente por la respiración, el movimiento del cuerpo o las alteraciones en el contacto entre el electrodo y la piel.
 
-4. **Q3. How does the amplitude differ in each muscular contraction? Is there a difference for body locations?** <br>La amplitud de la señal de electromiografía de superficie (sEMG) aumenta cuando la contracción muscular es más intensa, debido al reclutamiento de más unidades motoras y al incremento de su frecuencia de disparo [8]. Sin embargo, esta relación no es lineal, por lo que la amplitud no permite estimar la fuerza muscular con precisión [9].
-Respecto a la ubicación en el cuerpo, existen diferencias importantes. Los músculos que están más cerca de la piel (superficiales) dan una amplitud más grande que los profundos, porque la grasa y otros tejidos que hay por encima atenúan la señal eléctrica. Por ejemplo, Kuiken y colaboradores [10], comprobaron que con solo 9 mm de grasa subcutánea la amplitud de la señal sEMG se reduce más del 80%, y con 18 mm la reducción llega al 90%. Esto explica por qué músculos pequeños pero superficiales (como los de la mano) pueden tener una señal mucho más alta que músculos enormes pero profundos (como el glúteo).
+Interferencia de la red eléctrica (conocida como PLI): Ruido generado por campos electromagnéticos de aparatos eléctricos próximos, que se distingue por una señal sinusoidal con frecuencia de 50 o 60 Hz.
+Ruido electromiográfico (EMG): Se produce por la actividad eléctrica de los músculos esqueléticos, en particular durante las contracciones o el movimiento, cuyos elementos de frecuencia pueden sobreponerse con el complejo QRS. 
 
-4. **Q4.Show a screenshot of a relevant portion of Electromyography (EMG) data within the experiment proposed on Section D of a facial muscle of interest. Does this signal correspond to what you expected? Why? Which emotion and action did you perform to trigger the muscle? Which muscle did you trigger?** <br>La lectura y grafica del EMG en la seccion del musculo facial no se realizo en nuestro grupo pero para observar nuevos cambios en la gráfica, el usuario debe de de realizar gesticulaciones faciales como la sonrisa que es de las mas notorias, con este movimiento se activa los músculos del cigomático mayor.
+Artefactos de movimiento y electrodos (EM/MA): Son generados por el movimiento de los electrodos o cables, que cambia la impedancia al entrar en contacto con la piel.
 
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Im%C3%A1genes%20Laboratorio%20N%C2%B04/EMG%20facial.png" width="80%">
-</p>
+Ruido blanco gaussiano aditivo (AWGN): Ruido aleatorio que es generado por los sistemas electrónicos de adquisición.
 
-5. **Q5. To the best of your knowledge, does the EMG amplitude equal to the amount of force that you have generated with your muscle?** <br>No equivalen lo mismo, ya que la señal EMG mide la activación eléctrica generada por los músculos y no el resultado mecánico (la fuerza aplicada). Esta diferencia varía drásticamente en la fatiga ya que la señal eléctrica aumenta para poder mantener una misma fuerza, estos también cambia según la longitud del músculo y qué tipo de movimiento se realiza .
+Por consiguiente, el conjunto de estos ruidos tienen la posibilidad de alterar la interpretación de la señal ECG. Por lo que es crucial disminuirlos a través de una colocación apropiada de electrodos y condiciones de adquisición [A], [B].
+
+
+
+
+2. **Q2.Why does the change of the positioning of the sensors (lead I-III) change the ECG signal components? How do the components change?** <br>
+Para cada variación o cambio de posición de los sensores de ECG se observa la actividad eléctrica del corazón desde un ángulo espacial diferente.  
+La excitación de las células musculares cardíacas genera un vector dipolo que se propaga a las células vecinas, las derivaciones bipolares (I, II, II) miden al vector bipolar en el plano frontal con las diferentes combinaciones de los electrodos positivos y negativos.
+Los componentes cambian de la siguiente manera:
+Dirección de la amplitud: Cuando el vector de despolarización se acerca hacia el electrodo positivo de la derivación entonces el componente en el ECG será una onda con deflexión positiva pero si se aleja del electrodo positivo entonces será una deflexión negativa.  
+Tamaño de la amplitud: El tamaño depende del ángulo de dirección de la derivación respecto al vector eléctrico del corazón cuando el dipolo es paralelo a la línea de la derivación su amplitud será máxima.
+
+3. **Q3.Describe if there are major differences in the signal when acquiring the signal from different body locations (e.g., wrist / collarbone/ chest). What could be the cause? Did you expect such changes in the signal? Store a signal segment of each to visualize the differences.** <br>
+Si existen diferencias de la señal, sobre todo la amplitud y polaridad del complejo QRS si se cambia la posición de referencia de los electrodos.
+
+
+-La actividad eléctrica del corazón surge de la propagación de potenciales de acción que generan un vector dipolar tridimensional cambiante. 
+La amplitud y forma de la onda registrada dependen del ángulo de ese vector de despolarización relativo al eje de medición. Los electrodos en el pecho están físicamente más cerca del miocardio, por lo que registran una amplitud mucho mayor y capturan detalles específicos de las cámaras cardíacas (ventrículos). 
+En cambio, las posiciones como las muñecas y cresta ilíaca proyectan este vector tridimensional en el plano frontal bidimensional (el triángulo de Einthoven), resultando en amplitudes menores atenuadas por la impedancia de un mayor volumen de tejido.
+
+
+-Estos cambios morfológicos eran completamente esperados basándose en los principios teóricos del triángulo de Einthoven y las derivaciones bipolares, donde la magnitud proyectada alcanza su máximo cuando el dipolo cardíaco es paralelo a la línea trazada entre los electrodos [3].
+
+
+4. **Q4.The cardiac and the respiratory systems are well interconnected as is well known. Do you expect that different types of breathing (e.g. faster, deeper) to influence the ECG signals? Show screenshots of ECG signals in different respiratory circumstances and described the variations if there are any.** <br>
+Si se espera que los diferentes tipos de respiración afecten estas señales, ya que tanto el sistema respiratorio como el cardiovascular presentan una conexión. Al realizar una comparación entre nuestra linea basal y la hiperventilación se encuentran algunas diferencias:
+
+
+
+
+
+5. **Q5. In Home-Guide #1 you have seen that different amounts of force produced in the muscle generated signals with different amplitudes. How does movement influence your ECG signal?** <br>
+El ruido producido por la contracción de los músculos en el ECG se conoce como artefacto electromiográfico. Durante la adquisición de la señal, la actividad eléctrica de los músculos cercanos a los electrodos presenta un contenido espectral de banda ancha, extendiéndose predominantemente hacia frecuencias más altas (>10 Hz) y superponiéndose con el espectro del complejo QRS [M]. Como consecuencia, la presencia de ruido electromiográfico provoca una interpretación inexacta del ECG, lo que puede derivar en un diagnóstico erróneo de enfermedades cardíacas, decisiones de tratamiento inapropiadas y la generación de falsas alarmas [N].
+
+
+6. **Q6.To the best of your knowledge, how can you detect bradycardia and tachycardia in the ECG signal?** <br>
+
+Taquicardia: Se identifica en el ECG por un acortamiento evidente de los intervalos R-R. Se detecta cuando la frecuencia media constante supera los 100 lpm.
+Bradicardia: Se identifica en el ECG por un alargamiento de los intervalos R-R, mostrando picos muy separados entre sí. 
+Se detecta cuando la frecuencia media en reposo desciende por debajo de los 60 lpm.
+
+La bradicardia y la taquicardia se detectan principalmente analizando la distancia temporal entre latidos consecutivos en la señal de ECG, específicamente calculando el intervalo R-R (el tiempo transcurrido entre dos picos R sucesivos del complejo QRS). Con este intervalo, se calcula la frecuencia cardíaca (FC) usando la relación [5].
+
+FC =  60RR 
+Donde FC está en latidos por minuto y RR en segundos.
+
+
 
 
 ## 8. Bibliografía
