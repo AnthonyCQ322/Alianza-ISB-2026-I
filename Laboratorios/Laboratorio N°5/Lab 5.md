@@ -25,51 +25,6 @@
 8. [Bibliografía](#8-bibliografía)
 
 
-4. **Tríceps – Reposo**
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%207.png" width="70%">
-</p>
-<p align="center">
-  Imágen 10: Señal EMG de tríceps en reposo (cruda vs. filtrada)
-</p>
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%208.png" width="70%">
-</p>
-<p align="center">
-  Imágen 11: Espectro de frecuencia – Tríceps en reposo
-</p>
-
-5. **Tríceps – Extensión**
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%209.png" width="70%">
-</p>
-<p align="center">
-  Imágen 12: Señal EMG de tríceps durante extensión (cruda vs. filtrada)
-</p>
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2010.png" width="70%">
-</p>
-<p align="center">
-  Imágen 13: Espectro de frecuencia – Tríceps en extensión
-</p>
-
-6. **Tríceps – Extensión con peso**
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2011.png" width="70%">
-</p>
-<p align="center">
-  Imágen 14: Señal EMG de tríceps durante extensión con peso (cruda vs. filtrada)
-</p>
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/FIGURA%2012.png" width="70%">
-</p>
-<p align="center">
-  Imágen 15: Espectro de frecuencia – Tríceps en extensión con peso
-</p>
-
-<div align="justify">
-Se obtuvieron registros de la actividad eléctrica para los músculos bíceps y tríceps. Los resultados se dividen en el análisis morfológico de la señal en el dominio del tiempo y la distribución de su energía en el dominio de la frecuencia.
-</div>
 
 ## 6. Discusión
 ### 6.1 Análisis de Resultados
