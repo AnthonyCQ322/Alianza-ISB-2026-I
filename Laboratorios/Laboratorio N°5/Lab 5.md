@@ -101,11 +101,15 @@ Imágen 3: Usuario realizando la actividad de burpees.
 - Inhalación larga y profunda seguida de la máxima retención de la respiración que pueda el usuario.
 
 4. **Última medición del sensor de ECG** <br> El usuario descansa por 2 minutos luego de las actividades físicas y posteriormente se le vuelve a realizar mediciones mientras está en reposo para las 3 derivaciones (i, II, III).
-[vido o imagen segundo descanso]
-imágen XX : Medición de la señal ECG en la fase de recuperación del usuario.
+   
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°5/ecg4.png" width="70%">
+</p>
+<p align="center">
+imágen 4: Medición de la señal ECG en la fase de recuperación del usuario.
+</p>
 
-
-6. **Análisis y Procesamiento Digital:** Tras finalizar el protocolo, se detuvo la grabación y se guardaron los datos y con ayuda de la programación empleando la librería opensignalsreader podemos graficar la señal ECG en el dominio del tiempo y aplicar la Transformada Rápida de Fourier (FFT) para su análisis en frecuencia
+5. **Análisis y Procesamiento Digital:** Tras finalizar el protocolo, se detuvo la grabación y se guardaron los datos y con ayuda de la programación empleando la librería opensignalsreader podemos graficar la señal ECG en el dominio del tiempo y aplicar la Transformada Rápida de Fourier (FFT) para su análisis en frecuencia
 
 
 
