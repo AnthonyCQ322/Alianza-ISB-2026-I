@@ -56,79 +56,44 @@ En este laboratorio, la obtención de la señal ECG se lleva a cabo con el siste
 
 
 ## 4. Procedimiento
-1. **Limpieza de Piel:** <br>Se buscó una zona de poca vellosidad y se procedió a limpiar la zona del músculo a evaluar.
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Limpieza.png" width="80%">
-</p>
-<p align="center">
-  Imágen 1: Materiales de limpieza con el brazo sin electrodos
-</p>  
+1. **Limpieza de Piel y Ubicación de electrodos** <br>Delimitamos la ubicación necesaria para los tres electrodos (dos cerca a la clavícula y uno en la cresta ilíaca izquierda). Luego se limpia el área de colocación de los electrodos para hacer uso junto al BITalino para las mediciones después de las actividades físicas. Con el software OpenSignals (r)evolution, se inició el proceso de grabación de datos.
 
-2. **Conexión del equipo:** <br>Se conecta el cable de 3 vías al puerto que indica EMG del BITalino (se puede visualizar en su datasheet) y se energiza la placa conectándolo a la batería Li-Po.
+[FOTO LIMPIANDO*[)
+Imágen 1: Materiales de limpieza con el brazo sin electrodos
 
-3. **Colocación de electrodos:** <br>Una vez identificado el músculo que se desea evaluar se procede a colocar los electrodos de medición en el músculo alineados en el sentido de las fibras musculares y el electrodo de referencia se coloca en una zona ósea eléctricamente neutra como el codo.
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Electrodos%20en%20bicep.png" width="80%">
-</p>
-<p align="center">
-  Imágen 2: Colocación de electrodos en el bíceps con la referencia en el codo.
-</p>  
+2. **Conexión del equipo y Primera medición**<br> Se conectó el sensor de ECG al canal analógico de la placa BITalino. Posteriormente, se realiza la medida del ECG en reposo así que se colocaron los 3 conectores de los electrodos a sus electrodos (IN+, IN- y REF) según corresponda para cada medida de derivada (I, II, III) .
+Derivación I:
+Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
+Cable Positivo (IN+): Se coloca en la Clavícula Izquierda.
+Referencia (REF): Se coloca en la Cresta Ilíaca Izquierda.
+	Derivación II:
+Cable Negativo (IN-): Se coloca en la Clavícula Derecha.
+Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
+Referencia (REF): Se coloca en la Clavícula Izquierda.
+	Derivación III:
+Cable Negativo (IN-): Se coloca en la Clavícula Izquierda.
+Cable Positivo (IN+): Se coloca en la Cresta Ilíaca Izquierda.
+Referencia (REF): Se coloca en la Clavícula Derecha.
 
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/Electrodos%20en%20tricep.png" width="80%">
-</p>
-<p align="center">
-  Imágen 3: Colocación de electrodos en el trícep con la referencia en el codo.
-</p> 
+[FOTO COLOCANDO*[)
+Imágen 2: Medición de la señal ECG en posición de reposo
+[VIDEO MAYBE]
 
+3. **Tomas de movimiento con el ECG** <br> El usuario realiza secuencialmente una serie de actividades y al finalizar su actividad se mide inmediatamente con los electrodos para cada derivación I, II y III.
+Se repitió 3 veces un ciclo de respiración: Inhalación - retener la respiración - exhalación - retener la respiración.
+El usuario realizó un esfuerzo físico intenso 2 minutos de burpees para observar los cambios en la frecuencia cardíaca después del ejercicio.
+[vido burpee]
 
-4. **Conectividad del BITalino con Software:** <br>una vez encendido el BITalino se empareja mediante Bluetooth con la computadora para que posteriormente se use con el Software.
-   
-5. **Configuración del Software:** <br>se abre el software OpenSignals y se configura el dispositivo ingresando su dirección MAC, seleccionamos el canal correspondiente al sensor de EMG y se establece la frecuencia de muestreo.
-   
-6. **Tomas de movimiento:** <br>se inició la grabación en el OpenSignals con las tres repeticiones de contracciones para cada músculo (bicep y tricep), se realizó una en reposo, una sin fuerzas en contra del movimiento y una sometida a una fuerza al sentido contrario del recorrido del músculo, entre cada repetición hubo un minuto de reposo.
-<p align="center">
-  
-https://github.com/user-attachments/assets/2694219f-ec41-4563-9e8a-908b10dbf7e5
+Video : Grabación de la señal ECG registrando el aumento de la frecuencia cardíaca tras el ejercicio.
+Inhalación larga y profunda seguida de la máxima retención de la respiración que pueda el usuario.
+[vido hipoventialcion]
+Video : Grabación de la señal ECG registrando el aumento de la frecuencia cardíaca tras el ejercicio.
 
-</p>
-<p align="center">
-  Video 1: Grabación del brazo con el bíceps en reposo.
-</p>  
+4. **Última medición del sensor de ECG** <br> El usuario descansa por 2 minutos luego de las actividades físicas y posteriormente se le vuelve a realizar mediciones mientras está en reposo para las 3 derivaciones (i, II, III).
+[vido o imagen segundo descanso]
+imágen XX : Medición de la señal ECG en la fase de recuperación del usuario.
+Análisis y Procesamiento Digital: Tras finalizar el protocolo, se detuvo la grabación y se guardaron los datos y con ayuda de la programación empleando la librería opensignalsreader podemos graficar la señal ECG en el dominio del tiempo y aplicar la Transformada Rápida de Fourier (FFT) para su análisis en frecuencia
 
-<p align="center">
-
-https://github.com/user-attachments/assets/5070b867-e1d1-4596-a6e3-b01c3ad91cf5
-</p>
-<p align="center">
-  Video 2: Grabación del movimiento del brazo con el bíceps en contracción.
-</p>  
-
-<p align="center">
-
-https://github.com/user-attachments/assets/9a7af7b2-5c45-4404-8cd5-7f5c67dce424
-</p>
-<p align="center">
-  Video 3: Grabación del movimiento del brazo con el bíceps en contracción sometido a fuerzas en el sentido contrario al movimiento.
-</p>  
-
-<p align="center">
-
-https://github.com/user-attachments/assets/f4e355d3-a776-402f-a6a8-03769794a1d7
-</p>
-<p align="center">
-  Video 4: Grabación del brazo con el tricep en reposo.
-</p>   
-
-<p align="center">
-
-https://github.com/user-attachments/assets/db4d7539-e163-4ded-ad6f-a7e125c66b2a
-</p>
-<p align="center">
-  Video 5: Grabación del movimiento del brazo con el tricep en contracción sometido a fuerzas en el sentido contrario al movimiento.
-</p>  
-
-7. **Análisis y Procesamiento Digital:** <br>finalizando la grabación se exporto los datos a google collab, en python se importa la librería de opensignalsreader y se graficaron respecto al tiempo cada una de las señales y posteriormente se filtro la señal por Notch (Rechaza Banda) y Pasa Banda, para finalmente obtener transformada rápida de fourier de las distintas señales.
 
 
 
