@@ -1,7 +1,7 @@
 <div align="center">
-  <h1><b>LABORATORIO N°5: Adquisición de señales ECG</b></h1>
+  <h1><b>LABORATORIO N°6: Filtros Digitales</b></h1>
   <p>Universidad Peruana Cayetano Heredia</p>
-  <h1><b>BITAlino para ECG</b></h1>
+  <h1><b>Filtros Digitales</b></h1>
 </div>
 
 <div  align="center">
