@@ -8,7 +8,8 @@
   <h1><b>INTRODUCCIÓN A SEÑALES BIOMÉDICAS</b></h1>
 </div>
 
-<p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°4/bitalino.png" width="70%">
-</p>
+<div align="justify">
+En el procesamiento de señales biomédicas como ECG, EEG, EMG, se han desarrollado diferentes filtros digitales con la finalidad de reducir el ruido y mejorar la calidad de la señal adquirida. 
+Estos filtros permiten eliminar interferencias indeseables, facilitando un análisis más preciso de la información fisiológica; dentro de los principales filtros digitales utilizados encontramos los filtros pasa-bajos, pasa-altos, pasa-banda, notch, FIR e IIR, los cuales se presentarán y describirán a continuación:
+</div>
 
