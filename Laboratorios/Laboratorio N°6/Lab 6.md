@@ -16,6 +16,29 @@ Estos filtros permiten eliminar interferencias indeseables, facilitando un anál
 <div align="justify">
   
 # **Filtro Notch**
+Los filtros digitales notch, son componentes esenciales en el procesamiento de bioseñales, diseñados para suprimir frecuencias de interferencia específicas, generalmente provenientes de la red eléctrica (50 o 60 Hz), es un tipo de filtro rechazabanda fabricado a partir de una combinación de filtros pasa altos y pasa bajos, también se denominan "filtros de rechazo de banda" [1].
+
+<div  align="center">
+  <h1><b>IMAGEN</b></h1>
+</div>
+
+<div  align="center">
+  <h1><b>Fig 1. Filtro Notch (Fuente: MathWorks)</b></h1>
+</div>
+
+1. **Aplicación en Electrocardiografía (ECG)**
+El problema principal en el ECG consiste en eliminar el ruido de la red eléctrica, sin distorsionar los componentes morfológicos importantes de la señal, como el complejo QRS.
+Los filtros notch digitales pueden suprimir ruido a niveles mayores de 40 dB, y usando filtros IIR se han mostrado eficaces para rechazar interferencias de 50 Hz con bajos errores cuadráticos medios (aproximadamente 0.225) [2]
+
+2. **Aplicación de Electromiografía (EMG)**
+En el procesamiento de las señales EMG, el filtrado es más complejo ya que la energía de la señal muscular se solapan significativamente con la frecuencia de la red eléctrica. Para reducir este ruido se utilizan habitualmente filtros Butterworth de segundo orden que permiten atenuar los componentes de baja frecuencia (por ejemplo < 50 Hz) y de alta frecuencia (por ejemplo > 150 Hz). 
+Para el EMG superficial (sEMG), se han sugerido diseños de filtravdo más avanzados que incluyen filtros “band-stop” para eliminar la frecuencia fundamental de la red eléctrica y sus armónicos. Estos sistemas suelen tener un filtro pasa alto de segundo orden con frecuencia de corte de 10 Hz, un filtro pasa bajo de octavo orden con corte a 400 Hz y seis filtros banda detenida de segundo orden centrados en 60 Hz y sus armónicos hasta 360 Hz.
+En este sentido, los filtros FIR pueden ofrecer mejores resultados que los filtros IIR en sistemas de reconocimiento de patrones basados en sEMG, ya que preservan mejor los detalles de la señal y presentan una respuesta de fase lineal [3].
+
+3. **Aplicación en Electroencefalografía (EEG)**
+El EEG es muy sensible a interferencias periódicas, que pueden ser difíciles de reconocer visualmente porque las ondas cerebrales son irregulares.
+El proceso estándar consiste en identificar el impulso de 60 Hz en el espectro de potencia de la señal antes de aplicar el filtro.
+Los filtros digitales notch, al ser implementados, proporcionan atenuaciones significativas, mayores de 40 dB, preservando así la señal cerebral útil del ruido eléctrico [4].
 
   
 # **Filtro Pasa - bajos**
@@ -24,12 +47,13 @@ Estos filtros permiten eliminar interferencias indeseables, facilitando un anál
 
 # **Filtro basado en Transformada Wavelet (DWT Shrinkage)**
 
-# **Filtro adaptativo**
+# **Filtro Adaptativo**
 
 </div>
 
 <div align="justify">
-Bibliografía:
+  
+**Bibliografía:**
 [1] “Notch Filter,” MathWorks. https://la.mathworks.com/discovery/notch-filter.html
 
 [2] T. T. C. Choy and P. M. Leung, “Filtro muesca de 50 Hz basado en microprocesador en tiempo real para ECG,” ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/0141542588900131
