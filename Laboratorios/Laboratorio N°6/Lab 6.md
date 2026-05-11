@@ -111,7 +111,8 @@ El EEG registra una actividad cerebral de muy baja amplitud (uV) , lo que lo hac
 
 <div align="justify">
   
-**Bibliografía:**
+# **Bibliografía:**
+
 [1] “Notch Filter,” MathWorks. https://la.mathworks.com/discovery/notch-filter.html
 
 [2] T. T. C. Choy and P. M. Leung, “Filtro muesca de 50 Hz basado en microprocesador en tiempo real para ECG,” ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/0141542588900131
