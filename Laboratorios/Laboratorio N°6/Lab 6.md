@@ -15,7 +15,7 @@ Estos filtros permiten eliminar interferencias indeseables, facilitando un anál
 
 <div align="justify">
   
-# **Filtro Notch**
+#- **Filtro Notch**
 Los filtros digitales notch, son componentes esenciales en el procesamiento de bioseñales, diseñados para suprimir frecuencias de interferencia específicas, generalmente provenientes de la red eléctrica (50 o 60 Hz), es un tipo de filtro rechazabanda fabricado a partir de una combinación de filtros pasa altos y pasa bajos, también se denominan "filtros de rechazo de banda" [1].
 
 <div  align="center">
