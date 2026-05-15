@@ -319,3 +319,15 @@ Fig. 18. Detección de parpadeos en las señales EEG - Parpadeo + Masticando.
 </p>
 
 # 6. Discusión
+
+
+$ 7. Bibliografía
+
+<p align="justify">
+
+[1] 1.James A, Sánchez F, Iglesias G. INFORME GRUPAL DE BIOELECTRONICA Y MICROSISTEMAS ELECTROENCEFALOGRAFÍA (EEG) – FUNDAMENTOS Y APLICACIONES [Internet]. Research Gate. 2025. Available from: https://www.researchgate.net/profile/Edgardo-Porral-2/publication/396769967_Proy_Inv_Cat_Bioelectronica_y_Microsistemas_-ELECTROENCEFALOGRAFIA_EEG_-FUNDAMENTOS_Y_APLICACIONES/links/68f8d26902d6215259bdcaf8/Proy-Inv-Cat-Bioelectronica-y-Microsistemas-ELECTROENCEFALOGRAFIA-EEG-FUNDAMENTOS-Y-APLICACIONES.pdf
+[2] 1.ESCUELA POLITÉCNICA SUPERIOR DE ELCHE [Internet]. [cited 2026 May 15]. Available from: https://dspace.umh.es/bitstream/11000/33015/1/TFG-Garcia%20Brotons%2c%20Carlos.pdf
+[3] 1.Da M, Gomes M. Bases fisiológicas do eletroencefalograma Electroencephalogram physiological basis. Revista Brasileira de Neurologia [Internet]. 2015;51(1):12–9. Available from: https://docs.bvsalud.org/upload/S/0101-8469/2015/v51n1/a4729.pdf
+[4] 1.BITalino (r)evolution Lab Guide [Internet]. Available from: https://support.pluxbiosignals.com/wp-content/uploads/2022/04/HomeGuide3_EEG.pdf
+
+</p>
