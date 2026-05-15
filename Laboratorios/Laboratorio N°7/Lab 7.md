@@ -122,7 +122,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 - **Conexión y Configuración:** Se encendió el BITalino y se emparejó por Bluetooth a la computadora. En OpenSignals se habilitó el canal EEG y se configuró una frecuencia de muestreo adecuada.
 - **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-2.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-2.png" width="70%">
 </p>  
 <p align="center">
 [Figura 2: Sujeto relajado con los ojos cerrados y con auriculares]
@@ -130,7 +130,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Medición de Ojos abiertos:** El sujeto se mantuvo relajado y en silencio, fijando la mirada en un punto estático durante un tiempo determinado.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-3.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-3.png" width="70%">
 </p> 
 <p align="center">
 [Figura 3: Sujeto relajado con los ojos cerrados y con auriculares]
@@ -138,7 +138,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto por segunda vez.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-2  .png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-2  .png" width="70%">
 </p> 
 <p align="center">
 [Figura 4: Sujeto relajado con los ojos cerrados y con auriculares]
@@ -146,7 +146,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Medición de movimientos faciales:** Se le pidió al sujeto realizar movimientos faciales voluntarios que contaminan intencionalmente la señal como pestañear y simular la acción de masticar.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-4.png" width="70%">
 </p> 
 <p align="center">
 [Figura 5: Sujeto con la acción de pestañear y mover la mandíbula]
@@ -154,7 +154,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto por tercera vez.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-2.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-2.png" width="70%">
 </p> 
 <p align="center">
 [Figura 6: Sujeto relajado con los ojos cerrados y con auriculares]
@@ -162,7 +162,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Medición de Tarea Cognitiva:** El sujeto con los ojos abiertos escuchó dos tipos de sonidos, uno relajante y uno estresante.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-5.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-5.png" width="70%">
 </p> 
 <p align="center">
 [Figura 7: Grabación del usuario escuchando sonidos relajantes y estresantes]
