@@ -170,35 +170,35 @@ Fig. 2. Señales EEG - Mirada Fija de Fp1 y Fp2 antes y después del filtrado (0
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-5.png" width="70%">
 </p>
 <p align="center">
 Fig. 3. Señales EEG - Basal 2 de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-6.png" width="70%">
 </p>
 <p align="center">
 Fig. 4. Señales EEG - Parpadeo + Masc. de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-7.png" width="70%">
 </p>
 <p align="center">
 Fig. 5. Señales EEG - Basal 3 de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-8.png" width="70%">
 </p>
 <p align="center">
 Fig. 6. Señales EEG - Música Relajante de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-9.png" width="70%">
 </p>
 <p align="center">
 Fig. 7. Señales EEG - Música Estresante de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch)
