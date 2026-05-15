@@ -242,7 +242,7 @@ Fig. 12. Densidad espectral de potencia de las señales EEG - Basal 3 en los can
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/15-16.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-16.png" width="70%">
 </p>
 <p align="center">
 Fig. 13. Densidad espectral de potencia de las señales EEG - Música Relajante en los canales Fp1 y Fp2 mediante método Welch.
