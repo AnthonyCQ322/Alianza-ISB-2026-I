@@ -138,7 +138,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto por segunda vez.
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-2  .png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagenn-lab7-2.png" width="70%">
 </p> 
 <p align="center">
 [Figura 4: Sujeto relajado con los ojos cerrados y con auriculares]
