@@ -55,3 +55,11 @@ El EEG nos permite estudiar la corteza cerebral, que es donde se procesan las fu
 <p align="center">
 Figura 2. Bandas de frecuencia [4]
 </p>
+<div align="justify">
+- **Gamma (> 25 Hz):** Resolución de problemas y procesamiento cognitivo complejo.
+- **Beta (12 –  25 Hz):** Alerta, atención, pensamiento activo.
+- **Alpha (8-12 Hz):** Estado de descanso, reflexión y relajación con los ojos cerrados.
+- **Theta (4-8 Hz):** Somnolencia, meditación profunda o sueño ligero y ligero.
+- **Delta (0 – 4 Hz):** Sueño reparador y físico. 
+
+</div>
