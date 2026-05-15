@@ -14,7 +14,7 @@
 
 ## Tabla de contenidos
 1. [Introducción](#1-introducción)
-2. [Objetivos](#2-objetivos)
+2. [Marco Teórico](#2-marco-teórico)
 3. [Materiales y equipos](#3-materiales-y-equipos)
 4. [Procedimiento](#4-procedimiento)
 5. [Resultados](#5-resultados)
@@ -30,4 +30,20 @@ La electroencefalografía (EEG) es una técnica neurofisiológica no invasiva pa
 Este estudio de las ondas cerebrales permite a los científicos y profesionales de la salud adentrarse en los misterios de la cognición, las emociones y otros estados mentales, lo que no sólo amplía el conocimiento en neurociencia y psicología, sino que impulsa el desarrollo de métodos de diagnóstico y terapia para trastornos neurológicos y el progreso de las interfaces cerebro-máquina (BCI), contribuyendo así de manera significativa al bienestar humano [2]. 
 
 En esta práctica se emplea el sistema de adquisición BITalino (r)evolution y el software Open Signals para la captura de bioseñales en tiempo real. Se pretende reconocer los ritmos cerebrales principales y entender cómo los factores externos (estímulos visuales) e internos (tareas cognitivas) modulan la señal, de acuerdo con los estándares del Sistema Internacional 10-20.
+
+</div>
+
+## 2. Marco Teórico
+### 2.1. Fisiología de la señal EEG
+<div align="justify">
+El origen fisiológico es debido a la suma espacial y temporal de los potenciales postsinápticos excitatorios (EPSP) e inhibitorios (IPSP), y no a los potenciales de acción, ya que estos son demasiado breves para ser integrados. Se producen sobre todo en las dendritas de las células piramidales de la corteza cerebral, cuya disposición perpendicular y organizada permite que funcionen como dipolos microscópicos; la superposición de estos campos eléctricos produce potenciales que pueden ser detectados sobre el cuero cabelludo y para que esta actividad pueda ser registrada es necesario que se sincronicen grandes grupos neuronales, lo cual depende en gran medida de las conexiones talamocorticales y de las células marca-paso responsables de los ritmos cerebrales [3].
+
+<p align="center">
+Figura 1. Modelo de dipolo de corriente en una célula piramidal de la corteza cerebral [3]
+</p>
+</div>
+
+### 2.2. Frecuencias Cerebrales y Bandas de Frecuencia
+<div align="justify">
+El EEG nos permite estudiar la corteza cerebral, que es donde se procesan las funciones superiores del ser humano como el pensamiento y la percepción. Las señales se agrupan en bandas de frecuencia asociadas a estados fisiológicos específicos [1,4]:
 </div>
