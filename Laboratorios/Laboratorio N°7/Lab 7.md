@@ -151,10 +151,10 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 </div>
 
-# 5. Resiltados
-<div align="justify">
-Señal cruda y filtrada:
-</div>
+# 5. Resultados
+
+- **Señal cruda y filtrada:**
+  
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-3.png" width="70%">
 </p>
@@ -168,3 +168,154 @@ Fig. 1. Señales EEG - Basal 1 de Fp1 y Fp2 antes y después del filtrado (0.8 -
 <p align="center">
 Fig. 2. Señales EEG - Mirada Fija de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
 </p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 3. Señales EEG - Basal 2 de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 4. Señales EEG - Parpadeo + Masc. de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 5. Señales EEG - Basal 3 de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 6. Señales EEG - Música Relajante de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch).
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 7. Señales EEG - Música Estresante de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch)
+</p>
+
+- **PSD Welch**
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 8. Densidad espectral de potencia de las señales EEG - Basal 1 en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 9. Densidad espectral de potencia de las señales EEG - Mirada Fija en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 10. Densidad espectral de potencia de las señales EEG - Basal 2 en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 11. Densidad espectral de potencia de las señales EEG - Parpadeo + Masc. en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 12. Densidad espectral de potencia de las señales EEG - Basal 3 en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 13. Densidad espectral de potencia de las señales EEG - Música Relajante en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 14. Densidad espectral de potencia de las señales EEG - Música Estresante en los canales Fp1 y Fp2 mediante método Welch.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Tabla 1. Potencia relativa por banda (%) - Fp1.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Tabla 2. Potencia relativa por banda (%) - Fp1.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 15. Comparación de potencia alpha entre condiciones a ojos cerrados y ojos abiertos en los canales Fp1 y Fp2.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Tabla 3. Resultados del análisis de potencia alpha.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 16. Comparación de potencia alpha entre condiciones a ojos cerrados y ojos abiertos en los canales Fp1 y Fp2.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Tabla 4. Resultados del análisis de potencia beta.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 17. Comparación de potencia beta entre condiciones Basal y Mirada Fija en los canales Fp1 y Fp2.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Tabla 5. Resultados de detección de parpadeos.
+</p>
+
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+</p>
+<p align="center">
+Fig. 18. Detección de parpadeos en las señales EEG - Parpadeo + Masticando.
+</p>
+
+# 6. Discusión
