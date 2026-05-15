@@ -65,6 +65,7 @@ Figura 2. Bandas de frecuencia [4]
 - **Delta (0 – 4 Hz):** Sueño reparador y físico. 
 
 </div>
+
 ### 2.3. Fisiología de la señal EEG
 <div align="justify">
 La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia de artefactos que pueden distorsionar su interpretación [1,2]:
