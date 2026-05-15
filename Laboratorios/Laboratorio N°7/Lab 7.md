@@ -113,6 +113,9 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 - **Limpieza y Preparación:** Se procedió a limpiar minuciosamente con alcohol las zonas específicas de la cabeza del sujeto de prueba para eliminar la grasa capilar y células muertas, garantizando una baja impedancia acústica y eléctrica.
 - **Colocación de electrodos:** Se ubican los electrodos positivos y negativos en la región frontal (Fp1, Fp2) para evaluar la atención y artefactos oculares. El electrodo de referencia se colocó en una zona ósea neutra (como la apófisis mastoides detrás de la oreja o el lóbulo de la oreja).
 <p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/imagen-lab7-1.png" width="70%">
+</p>  
+<p align="center">
 [Figura 1: Colocación de los electrodos en la frente del sujeto (Fp1/Fp) y la referencia]
 </p>
 
