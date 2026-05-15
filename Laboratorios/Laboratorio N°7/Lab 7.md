@@ -270,49 +270,49 @@ Tabla 2. Potencia relativa por banda (%) - Fp1.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-19.png" width="70%">
 </p>
 <p align="center">
 Fig. 15. Comparación de potencia alpha entre condiciones a ojos cerrados y ojos abiertos en los canales Fp1 y Fp2.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-20.png" width="70%">
 </p>
 <p align="center">
 Tabla 3. Resultados del análisis de potencia alpha.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-21.png" width="70%">
 </p>
 <p align="center">
 Fig. 16. Comparación de potencia alpha entre condiciones a ojos cerrados y ojos abiertos en los canales Fp1 y Fp2.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-22.png" width="70%">
 </p>
 <p align="center">
 Tabla 4. Resultados del análisis de potencia beta.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-23.png" width="70%">
 </p>
 <p align="center">
 Fig. 17. Comparación de potencia beta entre condiciones Basal y Mirada Fija en los canales Fp1 y Fp2.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-24.png" width="70%">
 </p>
 <p align="center">
 Tabla 5. Resultados de detección de parpadeos.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-25.png" width="70%">
 </p>
 <p align="center">
 Fig. 18. Detección de parpadeos en las señales EEG - Parpadeo + Masticando.
