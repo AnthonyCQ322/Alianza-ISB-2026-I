@@ -207,49 +207,49 @@ Fig. 7. Señales EEG - Música Estresante de Fp1 y Fp2 antes y después del filt
 - **PSD Welch**
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-10.png" width="70%">
 </p>
 <p align="center">
 Fig. 8. Densidad espectral de potencia de las señales EEG - Basal 1 en los canales Fp1 y Fp2 mediante método Welch.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-11.png" width="70%">
 </p>
 <p align="center">
 Fig. 9. Densidad espectral de potencia de las señales EEG - Mirada Fija en los canales Fp1 y Fp2 mediante método Welch.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-12.png" width="70%">
 </p>
 <p align="center">
 Fig. 10. Densidad espectral de potencia de las señales EEG - Basal 2 en los canales Fp1 y Fp2 mediante método Welch.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-13.png" width="70%">
 </p>
 <p align="center">
 Fig. 11. Densidad espectral de potencia de las señales EEG - Parpadeo + Masc. en los canales Fp1 y Fp2 mediante método Welch.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-14.png" width="70%">
 </p>
 <p align="center">
 Fig. 12. Densidad espectral de potencia de las señales EEG - Basal 3 en los canales Fp1 y Fp2 mediante método Welch.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/15-4.png" width="70%">
 </p>
 <p align="center">
 Fig. 13. Densidad espectral de potencia de las señales EEG - Música Relajante en los canales Fp1 y Fp2 mediante método Welch.
 </p>
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-4.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-16.png" width="70%">
 </p>
 <p align="center">
 Fig. 14. Densidad espectral de potencia de las señales EEG - Música Estresante en los canales Fp1 y Fp2 mediante método Welch.
