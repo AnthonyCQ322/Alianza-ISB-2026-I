@@ -37,6 +37,9 @@ En esta práctica se emplea el sistema de adquisición BITalino (r)evolution y e
 ### 2.1. Fisiología de la señal EEG
 <div align="justify">
 El origen fisiológico es debido a la suma espacial y temporal de los potenciales postsinápticos excitatorios (EPSP) e inhibitorios (IPSP), y no a los potenciales de acción, ya que estos son demasiado breves para ser integrados. Se producen sobre todo en las dendritas de las células piramidales de la corteza cerebral, cuya disposición perpendicular y organizada permite que funcionen como dipolos microscópicos; la superposición de estos campos eléctricos produce potenciales que pueden ser detectados sobre el cuero cabelludo y para que esta actividad pueda ser registrada es necesario que se sincronicen grandes grupos neuronales, lo cual depende en gran medida de las conexiones talamocorticales y de las células marca-paso responsables de los ritmos cerebrales [3].
+<p align="center">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-1.png" width="70%">
+</p>
 
 <p align="center">
 Figura 1. Modelo de dipolo de corriente en una célula piramidal de la corteza cerebral [3]
