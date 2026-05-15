@@ -50,7 +50,7 @@ Figura 1. Modelo de dipolo de corriente en una célula piramidal de la corteza c
 El EEG nos permite estudiar la corteza cerebral, que es donde se procesan las funciones superiores del ser humano como el pensamiento y la percepción. Las señales se agrupan en bandas de frecuencia asociadas a estados fisiológicos específicos [1,4]:
 </div>
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-1.png" width="70%">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Imágenes%20Laboratorio%20N°7/lab7-2.png" width="70%">
 </p>
 <p align="center">
 Figura 2. Bandas de frecuencia [4]
