@@ -116,7 +116,7 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 [Figura 1: Colocación de los electrodos en la frente del sujeto (Fp1/Fp) y la referencia]
 </p>
 
-- -**Conexión y Configuración:** Se encendió el BITalino y se emparejó por Bluetooth a la computadora. En OpenSignals se habilitó el canal EEG y se configuró una frecuencia de muestreo adecuada.
+- **Conexión y Configuración:** Se encendió el BITalino y se emparejó por Bluetooth a la computadora. En OpenSignals se habilitó el canal EEG y se configuró una frecuencia de muestreo adecuada.
 - **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto.
 <p align="center">
 [Figura 2: Sujeto relajado con los ojos cerrados y con auriculares]
@@ -149,5 +149,9 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 
 - **Filtrado y Procesamiento:** Se exportan los datos en formato .txt, se importaron a Google Colab usando Python y se aplicó un filtro pasa-banda de 0.8 Hz a 48 Hz para aislar los ritmos cerebrales útiles.
 
+</div>
 
+# 5. Resiltados
+<div align="justify">
+Señal cruda y filtrada:
 </div>
