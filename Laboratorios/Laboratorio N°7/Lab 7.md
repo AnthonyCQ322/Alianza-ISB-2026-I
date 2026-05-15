@@ -23,10 +23,10 @@
    - 3.2 [Software](#32-software)
 4. [Procedimiento](#4-procedimiento)
 5. [Resultados](#5-resultados)
-6. [Discusión](#6-discusión)
-   - 6.1 [Análisis de Resultados](#61-análisis-de-resultados)
-   - 6.2 [Limitaciones](#62-limitaciones)
-7. [Bibliografía](#8-bibliografía)
+6. [Análisis de Resultados](#6-análisis-de-resultados)
+7. [Discusión](#7-discusión)
+8. [Conclusiones](#8-conclusiones)
+9. [Bibliografía](#8-bibliografía)
 
 ## 1. Introducción
 <div align="justify">
@@ -339,10 +339,14 @@ Tabla 5. Resultados de detección de parpadeos.
 Fig. 18. Detección de parpadeos en las señales EEG - Parpadeo + Masticando.
 </p>
 
-# 6. Discusión
+# 6. Análisis de Resultados
+
+# 7. Discusión
+
+# 8. Conclusiones
 
 
-# 7. Bibliografía
+# 9. Bibliografía
 
 <p align="justify">
 
