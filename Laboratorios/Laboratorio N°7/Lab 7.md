@@ -106,3 +106,48 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 - **Google Colab:** Software de programación para el procesamiento digital de señales, haciendo uso de librerías como scipy.signal.
 
 </div>
+
+## 4. Procedimiento
+<div align="justify">
+
+- **Limpieza y Preparación:** Se procedió a limpiar minuciosamente con alcohol las zonas específicas de la cabeza del sujeto de prueba para eliminar la grasa capilar y células muertas, garantizando una baja impedancia acústica y eléctrica.
+- **Colocación de electrodos:** Se ubican los electrodos positivos y negativos en la región frontal (Fp1, Fp2) para evaluar la atención y artefactos oculares. El electrodo de referencia se colocó en una zona ósea neutra (como la apófisis mastoides detrás de la oreja o el lóbulo de la oreja).
+<p align="center">
+[Figura 1: Colocación de los electrodos en la frente del sujeto (Fp1/Fp) y la referencia]
+</p>
+
+- -**Conexión y Configuración:** Se encendió el BITalino y se emparejó por Bluetooth a la computadora. En OpenSignals se habilitó el canal EEG y se configuró una frecuencia de muestreo adecuada.
+- **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto.
+<p align="center">
+[Figura 2: Sujeto relajado con los ojos cerrados y con auriculares]
+</p>
+
+- **Medición de Ojos abiertos:** El sujeto se mantuvo relajado y en silencio, fijando la mirada en un punto estático durante un tiempo determinado.
+<p align="center">
+[Figura 3: Sujeto relajado con los ojos cerrados y con auriculares]
+</p>
+
+- **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto por segunda vez.
+<p align="center">
+[Figura 4: Sujeto relajado con los ojos cerrados y con auriculares]
+</p>
+
+- **Medición de movimientos faciales:** Se le pidió al sujeto realizar movimientos faciales voluntarios que contaminan intencionalmente la señal como pestañear y simular la acción de masticar.
+<p align="center">
+[Figura 5: Sujeto con la acción de pestañear y mover la mandíbula]
+</p>
+
+- **Medición de Línea base:** El sujeto cerró los ojos y se relajó en silencio sin moverse por un minuto por tercera vez.
+<p align="center">
+[Figura 6: Sujeto relajado con los ojos cerrados y con auriculares]
+</p>
+
+- **Medición de Tarea Cognitiva:** El sujeto con los ojos abiertos escuchó dos tipos de sonidos, uno relajante y uno estresante.
+<p align="center">
+[Figura 7: Grabación del usuario escuchando sonidos relajantes y estresantes]
+</p>
+
+- **Filtrado y Procesamiento:** Se exportan los datos en formato .txt, se importaron a Google Colab usando Python y se aplicó un filtro pasa-banda de 0.8 Hz a 48 Hz para aislar los ritmos cerebrales útiles.
+
+
+</div>
