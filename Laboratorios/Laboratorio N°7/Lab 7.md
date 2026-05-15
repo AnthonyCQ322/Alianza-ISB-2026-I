@@ -69,6 +69,7 @@ Figura 2. Bandas de frecuencia [4]
 ### 2.3. Fisiología de la señal EEG
 <div align="justify">
 La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia de artefactos que pueden distorsionar su interpretación [1,2]:
+  
 - **Actividad Muscular:** Los movimientos de la cara, la masticación o la tensión del cuello producen señales que contaminan el registro.
 
 - **Oculares (EOG):** Los parpadeos y los movimientos de los ojos generan campos eléctricos que son detectados mayormente por los electrodos frontales (Fp1/Fp2).
