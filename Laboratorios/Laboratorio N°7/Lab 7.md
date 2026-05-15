@@ -82,3 +82,25 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 - **Fuerzas Mecánicas:** Los electrodos mal adheridos o una preparación deficiente de la piel generan variaciones de impedancia y pérdida de calidad de la señal 
 
 </div>
+
+## 3. Materiales y equipos
+### 3.1 Hardware
+
+<div align="justify">
+  
+- **Placa BITalino (r)evolution Board Kit BLE/BT:** Sistema principal de adquisición de datos fisiológico.
+- **Sensor de Electroencefalografía (EEG):** Módulo analógico preensamblado, diseñado específicamente para captar microvoltios de actividad cerebral.
+- **Cable de electrodos de 3 vías:** Cable con conectores tipo snap para la medición diferencial (IN+ e IN-) y la referencia (REF).
+- **Electrodos de superficie:** 3 Electrodos desechables pre gelificados de Ag/AgCl.
+- **Batería Li-Po (3.7V):** Fuente de alimentación aislada de la red eléctrica para garantizar la seguridad del usuario.
+
+</div>
+
+### 3.2 Software
+
+<div align="justify">
+  
+- **OpenSignals (r)evolution:** Software para la captura, visualización y almacenamiento de la señal EEG en tiempo real.
+- **Google Colab:** Software de programación para el procesamiento digital de señales, haciendo uso de librerías como scipy.signal.
+
+</div>
