@@ -1,7 +1,7 @@
 <div align="center">
-  <h1><b>LABORATORIO N°5: Adquisición de señales ECG</b></h1>
+  <h1><b>LABORATORIO N°7: Adquisición de señales EEG</b></h1>
   <p>Universidad Peruana Cayetano Heredia</p>
-  <h1><b>BITAlino para ECG</b></h1>
+  <h1><b>BITAlino para EEG</b></h1>
 </div>
 
 <div  align="center">
@@ -21,6 +21,5 @@
 6. [Discusión](#6-discusión)
    - 6.1 [Análisis de Resultados](#61-análisis-de-resultados)
    - 6.2 [Limitaciones](#62-limitaciones)
-7. [Quiz](#7-quiz)
-8. [Bibliografía](#8-bibliografía)
+7. [Bibliografía](#8-bibliografía)
 
