@@ -15,13 +15,16 @@
 ## Tabla de contenidos
 1. [Introducción](#1-introducción)
 2. [Marco Teórico](#2-marco-teórico)
-3. [Materiales y equipos](#3-materiales-y-equipos)
-4. [Procedimiento](#4-procedimiento)
-5. [Resultados](#5-resultados)
-6. [Discusión](#6-discusión)
+   - 2.1 [Fisiología de la señal EEG](#21-fisiología-de-la-senal-EEG)
+   - 2.2 [Frecuencias Cerebrales y Bandas de Frecuencia](#22-frecuencias-cerebrales-y-bandas-de-frecuencia)
+   - 2.3 [Fisiología de la señal EEG](#23-fisiología-de-la-señal-EEG)
+4. [Materiales y equipos](#3-materiales-y-equipos)
+5. [Procedimiento](#4-procedimiento)
+6. [Resultados](#5-resultados)
+7. [Discusión](#6-discusión)
    - 6.1 [Análisis de Resultados](#61-análisis-de-resultados)
    - 6.2 [Limitaciones](#62-limitaciones)
-7. [Bibliografía](#8-bibliografía)
+8. [Bibliografía](#8-bibliografía)
 
 ## 1. Introducción
 <div align="justify">
