@@ -65,3 +65,15 @@ Figura 2. Bandas de frecuencia [4]
 - **Delta (0 – 4 Hz):** Sueño reparador y físico. 
 
 </div>
+### 2.3. Fisiología de la señal EEG
+<div align="justify">
+La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia de artefactos que pueden distorsionar su interpretación [1,2]:
+- **Actividad Muscular:** Los movimientos de la cara, la masticación o la tensión del cuello producen señales que contaminan el registro.
+
+- **Oculares (EOG):** Los parpadeos y los movimientos de los ojos generan campos eléctricos que son detectados mayormente por los electrodos frontales (Fp1/Fp2).
+
+- **Interferencia eléctrica:** Ruido eléctrico de red (50/60 Hz) que puede ocultar la actividad cerebral si el entorno no está aislado adecuadamente.
+
+- **Fuerzas Mecánicas:** Los electrodos mal adheridos o una preparación deficiente de la piel generan variaciones de impedancia y pérdida de calidad de la señal 
+
+</div>
