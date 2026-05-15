@@ -155,3 +155,6 @@ La señal EEG es de muy baja amplitud, por lo que es vulnerable a la presencia d
 <div align="justify">
 Señal cruda y filtrada:
 </div>
+<p align="center">
+Fig. 1. Señales EEG - Basal 1 de Fp1 y Fp2 antes y después del filtrado (0.8 - 48 Hz + notch)
+</p>
