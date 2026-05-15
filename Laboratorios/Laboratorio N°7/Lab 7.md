@@ -321,7 +321,7 @@ Fig. 18. Detección de parpadeos en las señales EEG - Parpadeo + Masticando.
 # 6. Discusión
 
 
-$ 7. Bibliografía
+# 7. Bibliografía
 
 <p align="justify">
 
