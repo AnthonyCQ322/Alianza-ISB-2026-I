@@ -24,6 +24,10 @@
 4. [Procedimiento](#4-procedimiento)
 5. [Resultados](#5-resultados)
 6. [Análisis de Resultados](#6-análisis-de-resultados)
+   - 6.1 [Efecto del filtrado](#61-efecto-del-filtrado)
+   - 6.2 [Acción de Banda alfa](#62-acción-de-banda-alfa)
+   - 6.3 [Acción de Banda Beta](#63-acción-de-banda-beta)
+   - 6.4 [Estimulación Auditiva](#64-estimulación-auditiva)
 7. [Discusión](#7-discusión)
 8. [Conclusiones](#8-conclusiones)
 9. [Bibliografía](#8-bibliografía)
@@ -340,11 +344,56 @@ Fig. 18. Detección de parpadeos en las señales EEG - Parpadeo + Masticando.
 </p>
 
 # 6. Análisis de Resultados
+## 6.1 Efecto del Filtrado:
+
+<p align="justify">
+
+Al observar las señales en el dominio del tiempo, se evidencia que la señal cruda (raw) contenía desviaciones significativas de la línea base (fluctuaciones lentas) e interferencias de alta frecuencia. 
+La aplicación de un filtro pasa-banda (0.8 - 48 Hz) acoplado a un filtro Notch logró estabilizar la señal, eliminando el ruido electromagnético de la red eléctrica y permitiendo aislar el espectro fisiológico de interés (bandas Delta a Gamma) sin comprometer la morfología de las ondas cerebrales.
+
+</p>
+
+## 6.2 Acción de Banda Alfa:
+
+<p align="justify">
+
+La potencia de la banda Alfa (8-12 Hz) es predominante cuando el sujeto está relajado con los ojos cerrados (Basal) y se atenúa al abrir los ojos (estado de vigilia/atención). Se observa una ligera tendencia a esta disminución en Fp1 (de 11.97% con ojos cerrados a 9.39% con ojos abiertos). Sin embargo, la prueba estadística t-test pareado arroja un valor P>0.05  indica que no existe una diferencia estadísticamente significativa en la banda Alfa entre ambos estados.
+
+</p>
+
+## 6.3 Acción de Banda Beta:
+
+<p align="justify">
+
+La banda Beta (12-25 Hz) está intrínsecamente ligada a los estados de alerta, atención activa y procesamiento cognitivo. Los resultados presentados en la Tabla 4 y la Figura 17 reafirman fuertemente este principio. Al pasar de un estado de reposo (Basal 1) a fijar la mirada atentamente en un punto (Mirada Fija), la potencia relativa Beta en Fp1 prácticamente se duplica (pasando de 7.40% a 14.25%). Este aumento fue sometido a una prueba t-test, demostrando ser estadísticamente significativo (p=0.0113 < 0.05) Fp1 y p=0.0135 < 0.05 en Fp2). Esto confirma que el sujeto incrementó su nivel de alerta cortical al realizar la fijación visual.
+
+</p>
+
+## 6.4 Estimulación Auditiva:
+
+<p align="justify">
+
+Durante la Música Relajante, el sujeto mantuvo un nivel de alerta bajo, reflejado en una potencia Beta relativamente baja en Fp1 (6.1%) y Fp2 (6.1%) . Por el contrario, durante la Música Estresante, se requirió una mayor carga cognitiva y de alerta por parte del usuario, lo que disparó la potencia relativa de la banda Beta a un 14.6% en Fp1 y un aumento compensatorio de la banda Theta, asociada también al procesamiento emocional y estrés. 
+
+</p>
 
 # 7. Discusión
 
+<p align="justify">
+
+Los resultados obtenidos validan la relación entre las bandas de frecuencia y los estados cognitivos. Por un lado, el incremento significativo de la banda Beta (12-25 Hz) al pasar de un estado basal a uno de fijación visual o de estrés auditivo concuerda con su rol fisiológico en el procesamiento cognitivo complejo y la atención activa. Sin embargo, el análisis de la banda Alfa (8-12 Hz) no arrojó una atenuación significativa al abrir los ojos (p>= 0.05).Esto evidencia la limitación de las derivaciones frontopolares (Fp1 y Fp2), son óptimas para evaluar funciones ejecutivas, pero pobres para capturar la reactividad del ritmo Alfa, ya que la mayor amplitud y propagación se origina en la corteza occipital.
+Finalmente, la vulnerabilidad de la señal EEG se evidenció en la prueba de parpadeo y masticación, los picos de amplitud registrados (+-33.8 uV y +-28.3 uV) confirman que los potenciales musculares (artefactos electromiográficos y electro-oculares) superan con creces a los potenciales corticales en la región frontal. Esto indica que aunque el filtrado pasa-banda y Notch aislaron exitosamente el espectro fisiológico, las mediciones prefrontales requieren protocolos rigurosos de inmovilidad facial o algoritmos avanzados de rechazo de artefactos para evitar sesgos en la interpretación diagnóstica.
+
+</p>
+
 # 8. Conclusiones
 
+<p align="justify">
+
+La adquisición de señales EEG mediante BITalino demostró que la actividad cortical frontal es altamente reactiva a la carga cognitiva y a los estímulos externos. Se comprobó que la transición hacia estados de alerta y atención focalizada, ya sea por fijación visual o exposición a música estresante, se traduce en un incremento en la banda Beta. Por el contrario, los estímulos relajantes logran disminuir esta. Asimismo, se evidenció que la etapa de acondicionamiento digital es una herramienta indispensable para eliminar el ruido eléctrico de la red y estabilizar la línea base sin alterar la morfología de la señal.
+Sin embargo, se concluye que el posicionamiento de los electrodos determina los ritmos que se pueden evaluar correctamente. Las derivaciones frontales (Fp1/Fp2) resultaron insuficientes para caracterizar la atenuación del ritmo Alfa ante la apertura ocular, demostrando la necesidad de un montaje más extenso (como el occipital) para este propósito. Además, la proximidad de estos electrodos a los músculos faciales y oculares los hace extremadamente susceptibles a la contaminación por artefactos mecánicos y electromiográficos, lo que exige un rigor adicional en la preparación y ejecución de futuros experimentos.
+
+</p>
 
 # 9. Bibliografía
 
