@@ -36,7 +36,7 @@ Nuestro objetivo es aplicar los conceptos aprendidos en clase para desarrollar s
 
 ---
 
-## 👥 Integrantes (Grupo 6)
+## 👥 Integrantes (Grupo Alianza)
 
 <table align="center">
   <tr>
