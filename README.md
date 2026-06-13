@@ -3,7 +3,7 @@
 # 🌟 Bienvenidos al Repositorio del Grupo Alianza
 
 [![Curso](https://img.shields.io/badge/Curso-Introducción_a_Señales_Biomédicas-blue?style=for-the-badge&logo=medict)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
-[![Equipo](https://img.shields.io/badge/Equipo-Grupo_Número_6-success?style=for-the-badge&logo=github)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
+[![Equipo](https://img.shields.io/badge/Equipo-Alianza-success?style=for-the-badge&logo=github)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
 
 **📘 Curso:** Introducción a señales biomédicas  
 **🫀 Proyecto:** Determinación mediante uso de Machine Learning de ECG patológico vs ECG normal.  
@@ -89,22 +89,3 @@ El desarrollo de este proyecto y el aprendizaje a lo largo del semestre está gu
 
 ---
 
-<div align="center">
-  <i>Repositorio desarrollado para el curso de Introducción a Señales Biomédicas - 2026</i>
-</div>
-
-
-
-# <p align="center"> Introduccion a Señales Biomedicas </p>
-> EEG ECG EMG.
-## 1. CITI program - certificados
-
-
->
-## 2. Laboratorios
-### <ul> a. laboratorio 1 - Git y Github. </ul> 
-### <ul> b. </ul>
-
-## 3. Proyecto
-### <ul> a. Hardware. </ul>
-### <ul> b. Software. </ul>
