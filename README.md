@@ -20,7 +20,7 @@ A lo largo del curso trabajaremos con herramientas de programación, instrumenta
 Nuestro objetivo es aplicar los conceptos aprendidos en clase para desarrollar soluciones tecnológicas orientadas al área de la salud, fortaleciendo competencias en ingeniería biomédica, análisis de datos y diseño de sistemas de adquisición de bioseñales.
 
 <p align="center">
-  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/tree/main/Imagenes/Fotos" width="80%" alt="Imagen descriptiva del curso">
+  <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/ECG.jpg" width="80%" alt="Imagen descriptiva del curso">
 </p>
 
 ---
