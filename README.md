@@ -41,36 +41,36 @@ Nuestro objetivo es aplicar los conceptos aprendidos en clase para desarrollar s
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/150" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
-      <b>Nombre Completo 1</b><br>
+      <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/Anthony.jpg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 1"/><br>
+      <b>Anthony Frank Callupe Quispe</b><br>
       <i>"Estudiante de Ingeniería Biomédica apasionado/a por el análisis de datos médicos."</i><br><br>
-      ✉️ <a href="mailto:correo1@email.com">correo1@email.com</a>
+      ✉️ <a href="anthony.callupe@upch.pe">anthony.callupe@upch.pe</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/150" width="130px;" style="border-radius:50%;" alt="Foto Integrante 2"/><br>
-      <b>Nombre Completo 2</b><br>
+      <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/Sebastian.jpeg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 2"/><br>
+      <b>Sebastian Fabrizio Sulca Garay</b><br>
       <i>"Apasionado/a por el Machine Learning y el diagnóstico temprano de enfermedades."</i><br><br>
-      ✉️ <a href="mailto:correo2@email.com">correo2@email.com</a>
+      ✉️ <a href="sebastian.sulca@upch.pe">sebastian.sulca@upch.pe</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/150" width="130px;" style="border-radius:50%;" alt="Foto Integrante 3"/><br>
-      <b>Nombre Completo 3</b><br>
+      <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/Eliane.jpeg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 3"/><br>
+      <b>Eliane Jhilary Borda Velasquez</b><br>
       <i>"Interesado/a en el procesamiento digital de bioseñales y la programación."</i><br><br>
-      ✉️ <a href="mailto:correo3@email.com">correo3@email.com</a>
+      ✉️ <a href="eliane.borda@upch.pe">eliane.borda@upch.pe</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/150" width="130px;" style="border-radius:50%;" alt="Foto Integrante 4"/><br>
-      <b>Nombre Completo 4</b><br>
+      <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/Luis.jpeg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 4"/><br>
+      <b>Luis Alejandro Luque Prado</b><br>
       <i>"Enfocado/a en el diseño de hardware médico e instrumentación electrónica."</i><br><br>
-      ✉️ <a href="mailto:correo4@email.com">correo4@email.com</a>
+      ✉️ <a href="luis.luque@upch.pe">luis.luque@upch.pe</a>
     </td>
     <td align="center" width="33%">
-      <img src="https://via.placeholder.com/150" width="130px;" style="border-radius:50%;" alt="Foto Integrante 5"/><br>
-      <b>Nombre Completo 5</b><br>
+      <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/Mishelle.jpeg" width="130px;" style="border-radius:50%;" alt="Foto Integrante 5"/><br>
+      <b>Mishelle Eloisa Llanos Guerrero</b><br>
       <i>"Dedicado/a a la investigación clínica y la validación de tecnologías de salud."</i><br><br>
-      ✉️ <a href="mailto:correo5@email.com">correo5@email.com</a>
+      ✉️ <a href="mishelle.llanos@upch.pe">mishelle.llanos@upch.pe</a>
     </td>
     <td align="center" width="33%">
       </td>
