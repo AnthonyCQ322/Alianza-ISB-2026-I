@@ -13,11 +13,7 @@
 
 ## 📖 Sobre el Proyecto
 
-Este espacio ha sido creado con el propósito de documentar el desarrollo de nuestro proyecto académico, así como los conocimientos adquiridos durante el estudio de la adquisición, procesamiento y análisis de señales biomédicas.
-
-A lo largo del curso trabajaremos con herramientas de programación, instrumentación electrónica y técnicas de procesamiento digital de señales para comprender el funcionamiento de diferentes sistemas biomédicos. En este repositorio se registrarán los avances del proyecto, códigos fuente, reportes, resultados experimentales y documentación técnica generada por el equipo.
-
-Nuestro objetivo es aplicar los conceptos aprendidos en clase para desarrollar soluciones tecnológicas orientadas al área de la salud, fortaleciendo competencias en ingeniería biomédica, análisis de datos y diseño de sistemas de adquisición de bioseñales.
+Este repositorio está destinado a registrar el desarrollo de nuestro proyecto académico de indentificacion por Matchine Learnign a un ECG sano con un ECG patologico. Aquí compartiremos los códigos y reportes técnicos enfocados en la adquisición, procesamiento digital y análisis de señales biomédicas aplicadas al cuidado de la salud.
 
 <p align="center">
   <img src="https://github.com/AnthonyCQ322/Alianza-ISB-2026-I/blob/main/Imagenes/Fotos/ECG.jpg" width="80%" alt="Imagen descriptiva del curso">
