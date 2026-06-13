@@ -1,17 +1,17 @@
 <div align="center">
 
-# 🌟 Bienvenidos al Repositorio del Grupo Alianza
+# Bienvenidos al Repositorio del Grupo Alianza
 
 [![Curso](https://img.shields.io/badge/Curso-Introducción_a_Señales_Biomédicas-blue?style=for-the-badge&logo=medict)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
 [![Equipo](https://img.shields.io/badge/Equipo-Alianza-success?style=for-the-badge&logo=github)](https://github.com/AnthonyCQ322/Alianza-ISB-2026-I)
 
-**📘 Curso:** Introducción a señales biomédicas  
-**🫀 Proyecto:** Determinación mediante uso de Machine Learning de ECG patológico vs ECG normal.  
+**Curso:** Introducción a señales biomédicas  
+**Proyecto:** Determinación mediante uso de Machine Learning de ECG patológico vs ECG normal.  
 
 ---
 </div>
 
-## 📖 Sobre el Proyecto
+## Sobre el Proyecto
 
 Este repositorio está destinado a registrar el desarrollo de nuestro proyecto académico de indentificacion por Matchine Learnign a un ECG sano con un ECG patologico. Aquí compartiremos los códigos y reportes técnicos enfocados en la adquisición, procesamiento digital y análisis de señales biomédicas aplicadas al cuidado de la salud.
 
@@ -21,7 +21,7 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
 
 ---
 
-## 📑 Tabla de Contenidos
+## Tabla de Contenidos
 
 * 📜 **[CITI Program - Certificados](#-citi-program---certificados)**
 * 🔬 **[Laboratorios](#-laboratorios)**
@@ -32,7 +32,7 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
 
 ---
 
-## 👥 Integrantes (Grupo Alianza)
+## Integrantes (Grupo Alianza)
 
 <table align="center">
   <tr>
@@ -75,13 +75,13 @@ Este repositorio está destinado a registrar el desarrollo de nuestro proyecto a
 
 ---
 
-## 👨‍🏫 Docentes del Curso
+## Docentes del Curso
 
 El desarrollo de este proyecto y el aprendizaje a lo largo del semestre está guiado por nuestros docentes:
 
-* 🎓 **Moises Stevend Meza Rodriguez**
-* 🎓 **Jose Alonso Cáceres del Aguila**
-* 🎓 **Umbert Lewis De La Cruz Rodriguez**
+*  **Moises Stevend Meza Rodriguez**
+*  **Jose Alonso Cáceres del Aguila**
+*  **Umbert Lewis De La Cruz Rodriguez**
 
 ---
 
