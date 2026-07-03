@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>LABORATORIO N°8: Aplicación de ICA en Señales EEG</b></h1>
+  <h1><b>LABORATORIO N°10: Aplicación de ICA en Señales EEG</b></h1>
   <p><b>Universidad Peruana Cayetano Heredia</b></p>
   <h1><b>Remoción de Artefactos mediante Análisis de Componentes Independientes</b></h1>
 </div>
