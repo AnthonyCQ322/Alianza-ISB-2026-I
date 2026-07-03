@@ -44,7 +44,7 @@ Los principales artefactos que afectan el registro EEG son de origen ocular (EOG
 ### 2.2. Análisis de Componentes Independientes (ICA)
 <div align="justify">
 
-ICA asume que la señal registrada en cada electrodo es una mezcla lineal de fuentes estadísticamente independientes (actividad cortical, artefactos oculares, artefactos musculares, etc.). El algoritmo estima una matriz de desmezcla que permite recuperar dichas fuentes por separado. Una vez identificadas las componentes asociadas a artefactos —mediante inspección de su topografía espacial y su curso temporal—, estas pueden excluirse y la señal puede reconstruirse proyectando de vuelta únicamente las componentes de interés [1].
+ICA asume que la señal registrada en cada electrodo es una mezcla lineal de fuentes estadísticamente independientes (actividad cortical, artefactos oculares, artefactos musculares, etc.). El algoritmo estima una matriz de desmezcla que permite recuperar dichas fuentes por separado. Una vez identificadas las componentes asociadas a artefactos, mediante inspección de su topografía espacial y su curso temporal, estas pueden excluirse y la señal puede reconstruirse proyectando de vuelta únicamente las componentes de interés [1].
 
 Cabe señalar que el número máximo de componentes que ICA puede extraer está limitado por el número de canales disponibles. En un sistema de dos canales, como el empleado en este laboratorio, solo es posible separar un máximo de dos fuentes independientes.
 
@@ -75,7 +75,7 @@ Cabe señalar que el número máximo de componentes que ICA puede extraer está 
 
 **Adquisición y carga de datos:** se importó la lectura continua obtenida con el dispositivo BITalino desde los canales analógicos correspondientes a Fp1 y Fp2, con una frecuencia de muestreo de 1000 Hz. Los valores digitales del conversor analógico-digital (ADC) se transformaron a voltios empleando la ecuación de conversión del fabricante, y posteriormente se organizaron en un objeto `RawArray` mediante MNE-Python.
 
-**Filtrado digital:** se aplicó un filtro Notch en 50 Hz y 60 Hz para eliminar la interferencia de la red eléctrica, seguido de un filtro pasa-banda de fase cero entre 0.5 Hz y 40 Hz para acotar la banda fisiológica de interés.
+**Filtrado digital:** se aplicó un filtro Notch en 60 Hz para eliminar la interferencia de la red eléctrica, seguido de un filtro pasa-banda de fase cero entre 0.5 Hz y 40 Hz para acotar la banda fisiológica de interés.
 
 **Implementación de ICA:** dado que el registro cuenta con dos canales físicos, se configuró el algoritmo ICA para extraer exactamente dos componentes independientes, empleando el método de optimización Picard.
 
