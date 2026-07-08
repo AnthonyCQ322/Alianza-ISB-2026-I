@@ -1,0 +1,18 @@
+﻿# Entorno virtual
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Artefactos del modelo (son pesados; se comparten aparte)
+# models/*.joblib
+
+# Archivos del sistema
+.DS_Store
+
+# Configuracion local de Streamlit
+.streamlit/secrets.toml
+
+# Cache de pytest
+.pytest_cache/

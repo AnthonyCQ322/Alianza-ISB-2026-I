@@ -1,0 +1,20 @@
+# --- Interfaz web ---
+streamlit
+
+# --- Cálculo numérico y manejo de datos ---
+numpy
+pandas
+
+# --- Procesamiento de señales ---
+scipy
+neurokit2
+
+# --- Lectura de registros PhysioNet (.dat/.hea) ---
+wfdb
+
+# --- Carga y ejecución del modelo entrenado ---
+scikit-learn==1.9.0
+joblib
+
+# --- Visualización de la señal ECG ---
+matplotlib

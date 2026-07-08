@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#E63946"          # Rojo (alerta patológica)
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1FAEE"
+textColor = "#1D3557"
+font = "sans serif"
+
+[server]
+maxUploadSize = 50                 # MB máximos por archivo subido
